@@ -1,0 +1,6319 @@
+<?xml version="1.0"?>
+
+<!--
+-
+- Sequel Pro XML dump
+- Version 3408
+-
+- http://www.sequelpro.com/
+- http://code.google.com/p/sequel-pro/
+-
+- Host: edison.tech.northwestern.edu (MySQL 5.1.61-0ubuntu0.10.04.1-log)
+- Database: mcc
+- Generation Time Time: 2012-03-28 18:49:04 +0000
+-
+-->
+
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="mcc">
+
+
+	<table_data name="mccormick_roomfinder">
+
+	<row>
+		<field name="room">2821</field>
+		<field name="floor">2</field>
+		<field name="xcoord">244</field>
+		<field name="ycoord">281</field>
+	</row>
+
+	<row>
+		<field name="room">2822</field>
+		<field name="floor">2</field>
+		<field name="xcoord">253</field>
+		<field name="ycoord">281</field>
+	</row>
+
+	<row>
+		<field name="room">2823</field>
+		<field name="floor">2</field>
+		<field name="xcoord">268</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">2829</field>
+		<field name="floor">2</field>
+		<field name="xcoord">333</field>
+		<field name="ycoord">271</field>
+	</row>
+
+	<row>
+		<field name="room">A110</field>
+		<field name="floor">1</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">317</field>
+	</row>
+
+	<row>
+		<field name="room">A112</field>
+		<field name="floor">1</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">337</field>
+	</row>
+
+	<row>
+		<field name="room">A114</field>
+		<field name="floor">1</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">346</field>
+	</row>
+
+	<row>
+		<field name="room">A116</field>
+		<field name="floor">1</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">355</field>
+	</row>
+
+	<row>
+		<field name="room">A119</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">343</field>
+	</row>
+
+	<row>
+		<field name="room">A120</field>
+		<field name="floor">1</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">364</field>
+	</row>
+
+	<row>
+		<field name="room">A121</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">364</field>
+	</row>
+
+	<row>
+		<field name="room">A122</field>
+		<field name="floor">1</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">372</field>
+	</row>
+
+	<row>
+		<field name="room">A123</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">372</field>
+	</row>
+
+	<row>
+		<field name="room">A124</field>
+		<field name="floor">1</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">381</field>
+	</row>
+
+	<row>
+		<field name="room">A125</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">381</field>
+	</row>
+
+	<row>
+		<field name="room">A127</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">390</field>
+	</row>
+
+	<row>
+		<field name="room">A131</field>
+		<field name="floor">1</field>
+		<field name="xcoord">154</field>
+		<field name="ycoord">414</field>
+	</row>
+
+	<row>
+		<field name="room">A140</field>
+		<field name="floor">1</field>
+		<field name="xcoord">126</field>
+		<field name="ycoord">436</field>
+	</row>
+
+	<row>
+		<field name="room">A142</field>
+		<field name="floor">1</field>
+		<field name="xcoord">108</field>
+		<field name="ycoord">432</field>
+	</row>
+
+	<row>
+		<field name="room">A147</field>
+		<field name="floor">1</field>
+		<field name="xcoord">113</field>
+		<field name="ycoord">406</field>
+	</row>
+
+	<row>
+		<field name="room">A151</field>
+		<field name="floor">1</field>
+		<field name="xcoord">99</field>
+		<field name="ycoord">406</field>
+	</row>
+
+	<row>
+		<field name="room">A152</field>
+		<field name="floor">1</field>
+		<field name="xcoord">90</field>
+		<field name="ycoord">437</field>
+	</row>
+
+	<row>
+		<field name="room">A153</field>
+		<field name="floor">1</field>
+		<field name="xcoord">78</field>
+		<field name="ycoord">401</field>
+	</row>
+
+	<row>
+		<field name="room">A156</field>
+		<field name="floor">1</field>
+		<field name="xcoord">73</field>
+		<field name="ycoord">440</field>
+	</row>
+
+	<row>
+		<field name="room">A160</field>
+		<field name="floor">1</field>
+		<field name="xcoord">56</field>
+		<field name="ycoord">440</field>
+	</row>
+
+	<row>
+		<field name="room">A161</field>
+		<field name="floor">1</field>
+		<field name="xcoord">57</field>
+		<field name="ycoord">401</field>
+	</row>
+
+	<row>
+		<field name="room">A164</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">436</field>
+	</row>
+
+	<row>
+		<field name="room">A165</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">404</field>
+	</row>
+
+	<row>
+		<field name="room">A166</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">419</field>
+	</row>
+
+	<row>
+		<field name="room">A210</field>
+		<field name="floor">2</field>
+		<field name="xcoord">158</field>
+		<field name="ycoord">303</field>
+	</row>
+
+	<row>
+		<field name="room">A211</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">313</field>
+	</row>
+
+	<row>
+		<field name="room">A212</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">317</field>
+	</row>
+
+	<row>
+		<field name="room">A213</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">321</field>
+	</row>
+
+	<row>
+		<field name="room">A214</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">330</field>
+	</row>
+
+	<row>
+		<field name="room">A215</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">330</field>
+	</row>
+
+	<row>
+		<field name="room">A216</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">338</field>
+	</row>
+
+	<row>
+		<field name="room">A217</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">338</field>
+	</row>
+
+	<row>
+		<field name="room">A218</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">346</field>
+	</row>
+
+	<row>
+		<field name="room">A219</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">346</field>
+	</row>
+
+	<row>
+		<field name="room">A220</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">355</field>
+	</row>
+
+	<row>
+		<field name="room">A221</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">355</field>
+	</row>
+
+	<row>
+		<field name="room">A222</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">363</field>
+	</row>
+
+	<row>
+		<field name="room">A223</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">363</field>
+	</row>
+
+	<row>
+		<field name="room">A224</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">372</field>
+	</row>
+
+	<row>
+		<field name="room">A225</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">376</field>
+	</row>
+
+	<row>
+		<field name="room">A228</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">381</field>
+	</row>
+
+	<row>
+		<field name="room">A230</field>
+		<field name="floor">2</field>
+		<field name="xcoord">163</field>
+		<field name="ycoord">396</field>
+	</row>
+
+	<row>
+		<field name="room">A232</field>
+		<field name="floor">2</field>
+		<field name="xcoord">171</field>
+		<field name="ycoord">413</field>
+	</row>
+
+	<row>
+		<field name="room">A234</field>
+		<field name="floor">2</field>
+		<field name="xcoord">171</field>
+		<field name="ycoord">428</field>
+	</row>
+
+	<row>
+		<field name="room">A236</field>
+		<field name="floor">2</field>
+		<field name="xcoord">151</field>
+		<field name="ycoord">427</field>
+	</row>
+
+	<row>
+		<field name="room">A238</field>
+		<field name="floor">2</field>
+		<field name="xcoord">132</field>
+		<field name="ycoord">418</field>
+	</row>
+
+	<row>
+		<field name="room">A240</field>
+		<field name="floor">2</field>
+		<field name="xcoord">126</field>
+		<field name="ycoord">429</field>
+	</row>
+
+	<row>
+		<field name="room">A244</field>
+		<field name="floor">2</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">426</field>
+	</row>
+
+	<row>
+		<field name="room">A245</field>
+		<field name="floor">2</field>
+		<field name="xcoord">110</field>
+		<field name="ycoord">397</field>
+	</row>
+
+	<row>
+		<field name="room">A248</field>
+		<field name="floor">2</field>
+		<field name="xcoord">105</field>
+		<field name="ycoord">429</field>
+	</row>
+
+	<row>
+		<field name="room">A249</field>
+		<field name="floor">2</field>
+		<field name="xcoord">95</field>
+		<field name="ycoord">403</field>
+	</row>
+
+	<row>
+		<field name="room">A251</field>
+		<field name="floor">2</field>
+		<field name="xcoord">90</field>
+		<field name="ycoord">392</field>
+	</row>
+
+	<row>
+		<field name="room">A252</field>
+		<field name="floor">2</field>
+		<field name="xcoord">88</field>
+		<field name="ycoord">429</field>
+	</row>
+
+	<row>
+		<field name="room">A253</field>
+		<field name="floor">2</field>
+		<field name="xcoord">68</field>
+		<field name="ycoord">389</field>
+	</row>
+
+	<row>
+		<field name="room">A254</field>
+		<field name="floor">2</field>
+		<field name="xcoord">72</field>
+		<field name="ycoord">432</field>
+	</row>
+
+	<row>
+		<field name="room">A260</field>
+		<field name="floor">2</field>
+		<field name="xcoord">56</field>
+		<field name="ycoord">429</field>
+	</row>
+
+	<row>
+		<field name="room">A261</field>
+		<field name="floor">2</field>
+		<field name="xcoord">52</field>
+		<field name="ycoord">392</field>
+	</row>
+
+	<row>
+		<field name="room">A262</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">425</field>
+	</row>
+
+	<row>
+		<field name="room">A263</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">396</field>
+	</row>
+
+	<row>
+		<field name="room">A264</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">410</field>
+	</row>
+
+	<row>
+		<field name="room">A308</field>
+		<field name="floor">3</field>
+		<field name="xcoord">144</field>
+		<field name="ycoord">297</field>
+	</row>
+
+	<row>
+		<field name="room">A309</field>
+		<field name="floor">3</field>
+		<field name="xcoord">112</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">A310</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">311</field>
+	</row>
+
+	<row>
+		<field name="room">A311</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">323</field>
+	</row>
+
+	<row>
+		<field name="room">A312</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">328</field>
+	</row>
+
+	<row>
+		<field name="room">A314</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">336</field>
+	</row>
+
+	<row>
+		<field name="room">A315</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">A316</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">344</field>
+	</row>
+
+	<row>
+		<field name="room">A318</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">352</field>
+	</row>
+
+	<row>
+		<field name="room">A319</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">352</field>
+	</row>
+
+	<row>
+		<field name="room">A320</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">361</field>
+	</row>
+
+	<row>
+		<field name="room">A321</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">360</field>
+	</row>
+
+	<row>
+		<field name="room">A322</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">369</field>
+	</row>
+
+	<row>
+		<field name="room">A323</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">374</field>
+	</row>
+
+	<row>
+		<field name="room">A324</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">378</field>
+	</row>
+
+	<row>
+		<field name="room">A326</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">386</field>
+	</row>
+
+	<row>
+		<field name="room">A328</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">395</field>
+	</row>
+
+	<row>
+		<field name="room">A330</field>
+		<field name="floor">3</field>
+		<field name="xcoord">144</field>
+		<field name="ycoord">403</field>
+	</row>
+
+	<row>
+		<field name="room">A331</field>
+		<field name="floor">3</field>
+		<field name="xcoord">110</field>
+		<field name="ycoord">403</field>
+	</row>
+
+	<row>
+		<field name="room">A332</field>
+		<field name="floor">3</field>
+		<field name="xcoord">144</field>
+		<field name="ycoord">413</field>
+	</row>
+
+	<row>
+		<field name="room">A333</field>
+		<field name="floor">3</field>
+		<field name="xcoord">110</field>
+		<field name="ycoord">413</field>
+	</row>
+
+	<row>
+		<field name="room">A334</field>
+		<field name="floor">3</field>
+		<field name="xcoord">127</field>
+		<field name="ycoord">405</field>
+	</row>
+
+	<row>
+		<field name="room">A335</field>
+		<field name="floor">3</field>
+		<field name="xcoord">127</field>
+		<field name="ycoord">414</field>
+	</row>
+
+	<row>
+		<field name="room">AG10</field>
+		<field name="floor">0</field>
+		<field name="xcoord">149</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">AG12</field>
+		<field name="floor">0</field>
+		<field name="xcoord">163</field>
+		<field name="ycoord">330</field>
+	</row>
+
+	<row>
+		<field name="room">AG14</field>
+		<field name="floor">0</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">341</field>
+	</row>
+
+	<row>
+		<field name="room">AG18</field>
+		<field name="floor">0</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">357</field>
+	</row>
+
+	<row>
+		<field name="room">AG21</field>
+		<field name="floor">0</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">377</field>
+	</row>
+
+	<row>
+		<field name="room">AG22</field>
+		<field name="floor">0</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">374</field>
+	</row>
+
+	<row>
+		<field name="room">AG23</field>
+		<field name="floor">0</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">396</field>
+	</row>
+
+	<row>
+		<field name="room">AG24</field>
+		<field name="floor">0</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">386</field>
+	</row>
+
+	<row>
+		<field name="room">AG28</field>
+		<field name="floor">0</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">394</field>
+	</row>
+
+	<row>
+		<field name="room">AG30</field>
+		<field name="floor">0</field>
+		<field name="xcoord">160</field>
+		<field name="ycoord">424</field>
+	</row>
+
+	<row>
+		<field name="room">AG32</field>
+		<field name="floor">0</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">438</field>
+	</row>
+
+	<row>
+		<field name="room">AG35</field>
+		<field name="floor">0</field>
+		<field name="xcoord">158</field>
+		<field name="ycoord">413</field>
+	</row>
+
+	<row>
+		<field name="room">AG37</field>
+		<field name="floor">0</field>
+		<field name="xcoord">145</field>
+		<field name="ycoord">409</field>
+	</row>
+
+	<row>
+		<field name="room">AG40</field>
+		<field name="floor">0</field>
+		<field name="xcoord">125</field>
+		<field name="ycoord">438</field>
+	</row>
+
+	<row>
+		<field name="room">AG42</field>
+		<field name="floor">0</field>
+		<field name="xcoord">100</field>
+		<field name="ycoord">438</field>
+	</row>
+
+	<row>
+		<field name="room">AG45</field>
+		<field name="floor">0</field>
+		<field name="xcoord">101</field>
+		<field name="ycoord">410</field>
+	</row>
+
+	<row>
+		<field name="room">AG50</field>
+		<field name="floor">0</field>
+		<field name="xcoord">82</field>
+		<field name="ycoord">438</field>
+	</row>
+
+	<row>
+		<field name="room">AG51</field>
+		<field name="floor">0</field>
+		<field name="xcoord">81</field>
+		<field name="ycoord">410</field>
+	</row>
+
+	<row>
+		<field name="room">AG52</field>
+		<field name="floor">0</field>
+		<field name="xcoord">63</field>
+		<field name="ycoord">438</field>
+	</row>
+
+	<row>
+		<field name="room">AG53</field>
+		<field name="floor">0</field>
+		<field name="xcoord">51</field>
+		<field name="ycoord">410</field>
+	</row>
+
+	<row>
+		<field name="room">B110</field>
+		<field name="floor">1</field>
+		<field name="xcoord">128</field>
+		<field name="ycoord">314</field>
+	</row>
+
+	<row>
+		<field name="room">B111</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">284</field>
+	</row>
+
+	<row>
+		<field name="room">B119</field>
+		<field name="floor">1</field>
+		<field name="xcoord">117</field>
+		<field name="ycoord">284</field>
+	</row>
+
+	<row>
+		<field name="room">B120</field>
+		<field name="floor">1</field>
+		<field name="xcoord">100</field>
+		<field name="ycoord">313</field>
+	</row>
+
+	<row>
+		<field name="room">B121</field>
+		<field name="floor">1</field>
+		<field name="xcoord">106</field>
+		<field name="ycoord">291</field>
+	</row>
+
+	<row>
+		<field name="room">B123</field>
+		<field name="floor">1</field>
+		<field name="xcoord">95</field>
+		<field name="ycoord">280</field>
+	</row>
+
+	<row>
+		<field name="room">B130</field>
+		<field name="floor">1</field>
+		<field name="xcoord">79</field>
+		<field name="ycoord">315</field>
+	</row>
+
+	<row>
+		<field name="room">B132</field>
+		<field name="floor">1</field>
+		<field name="xcoord">60</field>
+		<field name="ycoord">313</field>
+	</row>
+
+	<row>
+		<field name="room">B133</field>
+		<field name="floor">1</field>
+		<field name="xcoord">71</field>
+		<field name="ycoord">280</field>
+	</row>
+
+	<row>
+		<field name="room">B139</field>
+		<field name="floor">1</field>
+		<field name="xcoord">54</field>
+		<field name="ycoord">288</field>
+	</row>
+
+	<row>
+		<field name="room">B145</field>
+		<field name="floor">1</field>
+		<field name="xcoord">38</field>
+		<field name="ycoord">282</field>
+	</row>
+
+	<row>
+		<field name="room">B211</field>
+		<field name="floor">2</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">B214</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">300</field>
+	</row>
+
+	<row>
+		<field name="room">B221</field>
+		<field name="floor">2</field>
+		<field name="xcoord">113</field>
+		<field name="ycoord">273</field>
+	</row>
+
+	<row>
+		<field name="room">B222</field>
+		<field name="floor">2</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">B223</field>
+		<field name="floor">2</field>
+		<field name="xcoord">104</field>
+		<field name="ycoord">273</field>
+	</row>
+
+	<row>
+		<field name="room">B224</field>
+		<field name="floor">2</field>
+		<field name="xcoord">100</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">B225</field>
+		<field name="floor">2</field>
+		<field name="xcoord">95</field>
+		<field name="ycoord">273</field>
+	</row>
+
+	<row>
+		<field name="room">B226</field>
+		<field name="floor">2</field>
+		<field name="xcoord">86</field>
+		<field name="ycoord">310</field>
+	</row>
+
+	<row>
+		<field name="room">B227</field>
+		<field name="floor">2</field>
+		<field name="xcoord">87</field>
+		<field name="ycoord">273</field>
+	</row>
+
+	<row>
+		<field name="room">B230</field>
+		<field name="floor">2</field>
+		<field name="xcoord">64</field>
+		<field name="ycoord">308</field>
+	</row>
+
+	<row>
+		<field name="room">B237</field>
+		<field name="floor">2</field>
+		<field name="xcoord">51</field>
+		<field name="ycoord">273</field>
+	</row>
+
+	<row>
+		<field name="room">BG10</field>
+		<field name="floor">0</field>
+		<field name="xcoord">119</field>
+		<field name="ycoord">334</field>
+	</row>
+
+	<row>
+		<field name="room">BG11</field>
+		<field name="floor">0</field>
+		<field name="xcoord">121</field>
+		<field name="ycoord">294</field>
+	</row>
+
+	<row>
+		<field name="room">BG20</field>
+		<field name="floor">0</field>
+		<field name="xcoord">88</field>
+		<field name="ycoord">323</field>
+	</row>
+
+	<row>
+		<field name="room">BG21</field>
+		<field name="floor">0</field>
+		<field name="xcoord">96</field>
+		<field name="ycoord">294</field>
+	</row>
+
+	<row>
+		<field name="room">BG30</field>
+		<field name="floor">0</field>
+		<field name="xcoord">64</field>
+		<field name="ycoord">323</field>
+	</row>
+
+	<row>
+		<field name="room">BG33</field>
+		<field name="floor">0</field>
+		<field name="xcoord">59</field>
+		<field name="ycoord">294</field>
+	</row>
+
+	<row>
+		<field name="room">BG37</field>
+		<field name="floor">0</field>
+		<field name="xcoord">42</field>
+		<field name="ycoord">294</field>
+	</row>
+
+	<row>
+		<field name="room">BG38</field>
+		<field name="floor">0</field>
+		<field name="xcoord">43</field>
+		<field name="ycoord">323</field>
+	</row>
+
+	<row>
+		<field name="room">BG41</field>
+		<field name="floor">0</field>
+		<field name="xcoord">27</field>
+		<field name="ycoord">290</field>
+	</row>
+
+	<row>
+		<field name="room">Biomedical Engineering Department Office</field>
+		<field name="floor">3</field>
+		<field name="xcoord">146</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">C110</field>
+		<field name="floor">1</field>
+		<field name="xcoord">117</field>
+		<field name="ycoord">189</field>
+	</row>
+
+	<row>
+		<field name="room">C118</field>
+		<field name="floor">1</field>
+		<field name="xcoord">107</field>
+		<field name="ycoord">189</field>
+	</row>
+
+	<row>
+		<field name="room">C120</field>
+		<field name="floor">1</field>
+		<field name="xcoord">97</field>
+		<field name="ycoord">189</field>
+	</row>
+
+	<row>
+		<field name="room">C122</field>
+		<field name="floor">1</field>
+		<field name="xcoord">87</field>
+		<field name="ycoord">189</field>
+	</row>
+
+	<row>
+		<field name="room">C124</field>
+		<field name="floor">1</field>
+		<field name="xcoord">72</field>
+		<field name="ycoord">181</field>
+	</row>
+
+	<row>
+		<field name="room">C125</field>
+		<field name="floor">1</field>
+		<field name="xcoord">93</field>
+		<field name="ycoord">158</field>
+	</row>
+
+	<row>
+		<field name="room">C135</field>
+		<field name="floor">1</field>
+		<field name="xcoord">68</field>
+		<field name="ycoord">158</field>
+	</row>
+
+	<row>
+		<field name="room">C136</field>
+		<field name="floor">1</field>
+		<field name="xcoord">75</field>
+		<field name="ycoord">194</field>
+	</row>
+
+	<row>
+		<field name="room">C138</field>
+		<field name="floor">1</field>
+		<field name="xcoord">62</field>
+		<field name="ycoord">194</field>
+	</row>
+
+	<row>
+		<field name="room">C140</field>
+		<field name="floor">1</field>
+		<field name="xcoord">52</field>
+		<field name="ycoord">192</field>
+	</row>
+
+	<row>
+		<field name="room">C146</field>
+		<field name="floor">1</field>
+		<field name="xcoord">39</field>
+		<field name="ycoord">196</field>
+	</row>
+
+	<row>
+		<field name="room">C148</field>
+		<field name="floor">1</field>
+		<field name="xcoord">48</field>
+		<field name="ycoord">154</field>
+	</row>
+
+	<row>
+		<field name="room">C150</field>
+		<field name="floor">1</field>
+		<field name="xcoord">35</field>
+		<field name="ycoord">175</field>
+	</row>
+
+	<row>
+		<field name="room">C151</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">156</field>
+	</row>
+
+	<row>
+		<field name="room">C210</field>
+		<field name="floor">2</field>
+		<field name="xcoord">128</field>
+		<field name="ycoord">181</field>
+	</row>
+
+	<row>
+		<field name="room">C211</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">152</field>
+	</row>
+
+	<row>
+		<field name="room">C212</field>
+		<field name="floor">2</field>
+		<field name="xcoord">135</field>
+		<field name="ycoord">200</field>
+	</row>
+
+	<row>
+		<field name="room">C214</field>
+		<field name="floor">2</field>
+		<field name="xcoord">125</field>
+		<field name="ycoord">200</field>
+	</row>
+
+	<row>
+		<field name="room">C216</field>
+		<field name="floor">2</field>
+		<field name="xcoord">110</field>
+		<field name="ycoord">191</field>
+	</row>
+
+	<row>
+		<field name="room">C217</field>
+		<field name="floor">2</field>
+		<field name="xcoord">112</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">C220</field>
+		<field name="floor">2</field>
+		<field name="xcoord">107</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">C223</field>
+		<field name="floor">2</field>
+		<field name="xcoord">93</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">C224</field>
+		<field name="floor">2</field>
+		<field name="xcoord">87</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">C226</field>
+		<field name="floor">2</field>
+		<field name="xcoord">96</field>
+		<field name="ycoord">188</field>
+	</row>
+
+	<row>
+		<field name="room">C228</field>
+		<field name="floor">2</field>
+		<field name="xcoord">87</field>
+		<field name="ycoord">191</field>
+	</row>
+
+	<row>
+		<field name="room">C229</field>
+		<field name="floor">2</field>
+		<field name="xcoord">74</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">C230</field>
+		<field name="floor">2</field>
+		<field name="xcoord">75</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">C231</field>
+		<field name="floor">2</field>
+		<field name="xcoord">58</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">C234</field>
+		<field name="floor">2</field>
+		<field name="xcoord">62</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">C236</field>
+		<field name="floor">2</field>
+		<field name="xcoord">53</field>
+		<field name="ycoord">175</field>
+	</row>
+
+	<row>
+		<field name="room">C246</field>
+		<field name="floor">2</field>
+		<field name="xcoord">37</field>
+		<field name="ycoord">190</field>
+	</row>
+
+	<row>
+		<field name="room">C250</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">177</field>
+	</row>
+
+	<row>
+		<field name="room">C251</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">161</field>
+	</row>
+
+	<row>
+		<field name="room">CG10</field>
+		<field name="floor">0</field>
+		<field name="xcoord">111</field>
+		<field name="ycoord">179</field>
+	</row>
+
+	<row>
+		<field name="room">CG20</field>
+		<field name="floor">0</field>
+		<field name="xcoord">81</field>
+		<field name="ycoord">188</field>
+	</row>
+
+	<row>
+		<field name="room">CG30</field>
+		<field name="floor">0</field>
+		<field name="xcoord">55</field>
+		<field name="ycoord">181</field>
+	</row>
+
+	<row>
+		<field name="room">CG51</field>
+		<field name="floor">0</field>
+		<field name="xcoord">24</field>
+		<field name="ycoord">173</field>
+	</row>
+
+	<row>
+		<field name="room">Cooperative Engineering Education Office</field>
+		<field name="floor">3</field>
+		<field name="xcoord">189</field>
+		<field name="ycoord">301</field>
+	</row>
+
+	<row>
+		<field name="room">D210,2709</field>
+		<field name="floor">2</field>
+		<field name="xcoord">110</field>
+		<field name="ycoord">125</field>
+	</row>
+
+	<row>
+		<field name="room">D211,2678</field>
+		<field name="floor">2</field>
+		<field name="xcoord">84</field>
+		<field name="ycoord">91</field>
+	</row>
+
+	<row>
+		<field name="room">D212,2712</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">133</field>
+	</row>
+
+	<row>
+		<field name="room">D220,2704</field>
+		<field name="floor">2</field>
+		<field name="xcoord">81</field>
+		<field name="ycoord">124</field>
+	</row>
+
+	<row>
+		<field name="room">D230,2701</field>
+		<field name="floor">2</field>
+		<field name="xcoord">55</field>
+		<field name="ycoord">124</field>
+	</row>
+
+	<row>
+		<field name="room">D231,2698</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">152</field>
+	</row>
+
+	<row>
+		<field name="room">D233,2697</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">139</field>
+	</row>
+
+	<row>
+		<field name="room">D235,2696</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">125</field>
+	</row>
+
+	<row>
+		<field name="room">D237,2695</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">112</field>
+	</row>
+
+	<row>
+		<field name="room">D239,2694</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">98</field>
+	</row>
+
+	<row>
+		<field name="room">D241,2693</field>
+		<field name="floor">2</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">82</field>
+	</row>
+
+	<row>
+		<field name="room">DG10</field>
+		<field name="floor">0</field>
+		<field name="xcoord">127</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">DG12</field>
+		<field name="floor">0</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">DG16</field>
+		<field name="floor">0</field>
+		<field name="xcoord">101</field>
+		<field name="ycoord">158</field>
+	</row>
+
+	<row>
+		<field name="room">DG20</field>
+		<field name="floor">0</field>
+		<field name="xcoord">84</field>
+		<field name="ycoord">158</field>
+	</row>
+
+	<row>
+		<field name="room">DG22</field>
+		<field name="floor">0</field>
+		<field name="xcoord">72</field>
+		<field name="ycoord">158</field>
+	</row>
+
+	<row>
+		<field name="room">DG30</field>
+		<field name="floor">0</field>
+		<field name="xcoord">70</field>
+		<field name="ycoord">143</field>
+	</row>
+
+	<row>
+		<field name="room">DG31</field>
+		<field name="floor">0</field>
+		<field name="xcoord">92</field>
+		<field name="ycoord">134</field>
+	</row>
+
+	<row>
+		<field name="room">DG36</field>
+		<field name="floor">0</field>
+		<field name="xcoord">70</field>
+		<field name="ycoord">134</field>
+	</row>
+
+	<row>
+		<field name="room">DG37</field>
+		<field name="floor">0</field>
+		<field name="xcoord">89</field>
+		<field name="ycoord">109</field>
+	</row>
+
+	<row>
+		<field name="room">DG41</field>
+		<field name="floor">0</field>
+		<field name="xcoord">60</field>
+		<field name="ycoord">110</field>
+	</row>
+
+	<row>
+		<field name="room">DG51</field>
+		<field name="floor">0</field>
+		<field name="xcoord">32</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">DG53</field>
+		<field name="floor">0</field>
+		<field name="xcoord">25</field>
+		<field name="ycoord">119</field>
+	</row>
+
+	<row>
+		<field name="room">DG55</field>
+		<field name="floor">0</field>
+		<field name="xcoord">25</field>
+		<field name="ycoord">128</field>
+	</row>
+
+	<row>
+		<field name="room">DG57</field>
+		<field name="floor">0</field>
+		<field name="xcoord">25</field>
+		<field name="ycoord">137</field>
+	</row>
+
+	<row>
+		<field name="room">DG60</field>
+		<field name="floor">0</field>
+		<field name="xcoord">62</field>
+		<field name="ycoord">159</field>
+	</row>
+
+	<row>
+		<field name="room">DG61</field>
+		<field name="floor">0</field>
+		<field name="xcoord">50</field>
+		<field name="ycoord">137</field>
+	</row>
+
+	<row>
+		<field name="room">DG66</field>
+		<field name="floor">0</field>
+		<field name="xcoord">48</field>
+		<field name="ycoord">159</field>
+	</row>
+
+	<row>
+		<field name="room">E110</field>
+		<field name="floor">1</field>
+		<field name="xcoord">158</field>
+		<field name="ycoord">111</field>
+	</row>
+
+	<row>
+		<field name="room">E111</field>
+		<field name="floor">1</field>
+		<field name="xcoord">127</field>
+		<field name="ycoord">119</field>
+	</row>
+
+	<row>
+		<field name="room">E117</field>
+		<field name="floor">1</field>
+		<field name="xcoord">127</field>
+		<field name="ycoord">96</field>
+	</row>
+
+	<row>
+		<field name="room">E127</field>
+		<field name="floor">1</field>
+		<field name="xcoord">127</field>
+		<field name="ycoord">80</field>
+	</row>
+
+	<row>
+		<field name="room">E133</field>
+		<field name="floor">1</field>
+		<field name="xcoord">177</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">E136</field>
+		<field name="floor">1</field>
+		<field name="xcoord">168</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E144</field>
+		<field name="floor">1</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">39</field>
+	</row>
+
+	<row>
+		<field name="room">E149</field>
+		<field name="floor">1</field>
+		<field name="xcoord">113</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">E150</field>
+		<field name="floor">1</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E153</field>
+		<field name="floor">1</field>
+		<field name="xcoord">90</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">E154</field>
+		<field name="floor">1</field>
+		<field name="xcoord">122</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E156</field>
+		<field name="floor">1</field>
+		<field name="xcoord">113</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E160</field>
+		<field name="floor">1</field>
+		<field name="xcoord">104</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E162</field>
+		<field name="floor">1</field>
+		<field name="xcoord">96</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E165</field>
+		<field name="floor">1</field>
+		<field name="xcoord">60</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">E166</field>
+		<field name="floor">1</field>
+		<field name="xcoord">87</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E168</field>
+		<field name="floor">1</field>
+		<field name="xcoord">79</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E172</field>
+		<field name="floor">1</field>
+		<field name="xcoord">70</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E173</field>
+		<field name="floor">1</field>
+		<field name="xcoord">38</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">E174</field>
+		<field name="floor">1</field>
+		<field name="xcoord">61</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E178</field>
+		<field name="floor">1</field>
+		<field name="xcoord">53</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E180</field>
+		<field name="floor">1</field>
+		<field name="xcoord">39</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">E210</field>
+		<field name="floor">2</field>
+		<field name="xcoord">159</field>
+		<field name="ycoord">102</field>
+	</row>
+
+	<row>
+		<field name="room">E213</field>
+		<field name="floor">2</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">121</field>
+	</row>
+
+	<row>
+		<field name="room">E217</field>
+		<field name="floor">2</field>
+		<field name="xcoord">133</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">E219</field>
+		<field name="floor">2</field>
+		<field name="xcoord">121</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">E221</field>
+		<field name="floor">2</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">94</field>
+	</row>
+
+	<row>
+		<field name="room">E222</field>
+		<field name="floor">2</field>
+		<field name="xcoord">159</field>
+		<field name="ycoord">85</field>
+	</row>
+
+	<row>
+		<field name="room">E223</field>
+		<field name="floor">2</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">82</field>
+	</row>
+
+	<row>
+		<field name="room">E226</field>
+		<field name="floor">2</field>
+		<field name="xcoord">159</field>
+		<field name="ycoord">77</field>
+	</row>
+
+	<row>
+		<field name="room">E233</field>
+		<field name="floor">2</field>
+		<field name="xcoord">170</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">E234</field>
+		<field name="floor">2</field>
+		<field name="xcoord">177</field>
+		<field name="ycoord">30</field>
+	</row>
+
+	<row>
+		<field name="room">E238</field>
+		<field name="floor">2</field>
+		<field name="xcoord">161</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E244</field>
+		<field name="floor">2</field>
+		<field name="xcoord">148</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E248</field>
+		<field name="floor">2</field>
+		<field name="xcoord">139</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E250</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E253</field>
+		<field name="floor">2</field>
+		<field name="xcoord">108</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">E254</field>
+		<field name="floor">2</field>
+		<field name="xcoord">121</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E256</field>
+		<field name="floor">2</field>
+		<field name="xcoord">108</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E259</field>
+		<field name="floor">2</field>
+		<field name="xcoord">90</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">E262</field>
+		<field name="floor">2</field>
+		<field name="xcoord">90</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E265</field>
+		<field name="floor">2</field>
+		<field name="xcoord">73</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">E267</field>
+		<field name="floor">2</field>
+		<field name="xcoord">58</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">E268</field>
+		<field name="floor">2</field>
+		<field name="xcoord">73</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E273</field>
+		<field name="floor">2</field>
+		<field name="xcoord">37</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">E274</field>
+		<field name="floor">2</field>
+		<field name="xcoord">60</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E278</field>
+		<field name="floor">2</field>
+		<field name="xcoord">51</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E280</field>
+		<field name="floor">2</field>
+		<field name="xcoord">43</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E284</field>
+		<field name="floor">2</field>
+		<field name="xcoord">33</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">E310</field>
+		<field name="floor">3</field>
+		<field name="xcoord">146</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">E311</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">108</field>
+	</row>
+
+	<row>
+		<field name="room">E319</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">92</field>
+	</row>
+
+	<row>
+		<field name="room">E322</field>
+		<field name="floor">3</field>
+		<field name="xcoord">146</field>
+		<field name="ycoord">83</field>
+	</row>
+
+	<row>
+		<field name="room">E323</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">83</field>
+	</row>
+
+	<row>
+		<field name="room">E326</field>
+		<field name="floor">3</field>
+		<field name="xcoord">146</field>
+		<field name="ycoord">75</field>
+	</row>
+
+	<row>
+		<field name="room">E327</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">75</field>
+	</row>
+
+	<row>
+		<field name="room">E332</field>
+		<field name="floor">3</field>
+		<field name="xcoord">167</field>
+		<field name="ycoord">34</field>
+	</row>
+
+	<row>
+		<field name="room">E333</field>
+		<field name="floor">3</field>
+		<field name="xcoord">168</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E334</field>
+		<field name="floor">3</field>
+		<field name="xcoord">172</field>
+		<field name="ycoord">24</field>
+	</row>
+
+	<row>
+		<field name="room">E336</field>
+		<field name="floor">3</field>
+		<field name="xcoord">163</field>
+		<field name="ycoord">24</field>
+	</row>
+
+	<row>
+		<field name="room">E339</field>
+		<field name="floor">3</field>
+		<field name="xcoord">154</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E340</field>
+		<field name="floor">3</field>
+		<field name="xcoord">153</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E342</field>
+		<field name="floor">3</field>
+		<field name="xcoord">144</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E343</field>
+		<field name="floor">3</field>
+		<field name="xcoord">144</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E344</field>
+		<field name="floor">3</field>
+		<field name="xcoord">135</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E348</field>
+		<field name="floor">3</field>
+		<field name="xcoord">126</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E350</field>
+		<field name="floor">3</field>
+		<field name="xcoord">117</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E353</field>
+		<field name="floor">3</field>
+		<field name="xcoord">93</field>
+		<field name="ycoord">59</field>
+	</row>
+
+	<row>
+		<field name="room">E354</field>
+		<field name="floor">3</field>
+		<field name="xcoord">108</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E355</field>
+		<field name="floor">3</field>
+		<field name="xcoord">81</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E356</field>
+		<field name="floor">3</field>
+		<field name="xcoord">98</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E359</field>
+		<field name="floor">3</field>
+		<field name="xcoord">72</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E360</field>
+		<field name="floor">3</field>
+		<field name="xcoord">90</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E361</field>
+		<field name="floor">3</field>
+		<field name="xcoord">62</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E362</field>
+		<field name="floor">3</field>
+		<field name="xcoord">76</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E365</field>
+		<field name="floor">3</field>
+		<field name="xcoord">53</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E368</field>
+		<field name="floor">3</field>
+		<field name="xcoord">63</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E371</field>
+		<field name="floor">3</field>
+		<field name="xcoord">39</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E372</field>
+		<field name="floor">3</field>
+		<field name="xcoord">53</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E373</field>
+		<field name="floor">3</field>
+		<field name="xcoord">21</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">E374</field>
+		<field name="floor">3</field>
+		<field name="xcoord">44</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E378</field>
+		<field name="floor">3</field>
+		<field name="xcoord">35</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">E380</field>
+		<field name="floor">3</field>
+		<field name="xcoord">22</field>
+		<field name="ycoord">36</field>
+	</row>
+
+	<row>
+		<field name="room">E382</field>
+		<field name="floor">3</field>
+		<field name="xcoord">27</field>
+		<field name="ycoord">26</field>
+	</row>
+
+	<row>
+		<field name="room">E384</field>
+		<field name="floor">3</field>
+		<field name="xcoord">18</field>
+		<field name="ycoord">26</field>
+	</row>
+
+	<row>
+		<field name="room">EG33</field>
+		<field name="floor">0</field>
+		<field name="xcoord">172</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">EG35</field>
+		<field name="floor">0</field>
+		<field name="xcoord">150</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">EG38</field>
+		<field name="floor">0</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">58</field>
+	</row>
+
+	<row>
+		<field name="room">EG49</field>
+		<field name="floor">0</field>
+		<field name="xcoord">97</field>
+		<field name="ycoord">82</field>
+	</row>
+
+	<row>
+		<field name="room">EG50</field>
+		<field name="floor">0</field>
+		<field name="xcoord">125</field>
+		<field name="ycoord">54</field>
+	</row>
+
+	<row>
+		<field name="room">EG54</field>
+		<field name="floor">0</field>
+		<field name="xcoord">108</field>
+		<field name="ycoord">58</field>
+	</row>
+
+	<row>
+		<field name="room">EG59</field>
+		<field name="floor">0</field>
+		<field name="xcoord">80</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">EG60</field>
+		<field name="floor">0</field>
+		<field name="xcoord">94</field>
+		<field name="ycoord">58</field>
+	</row>
+
+	<row>
+		<field name="room">EG62</field>
+		<field name="floor">0</field>
+		<field name="xcoord">71</field>
+		<field name="ycoord">58</field>
+	</row>
+
+	<row>
+		<field name="room">EG65</field>
+		<field name="floor">0</field>
+		<field name="xcoord">62</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">EG67</field>
+		<field name="floor">0</field>
+		<field name="xcoord">50</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">EG71</field>
+		<field name="floor">0</field>
+		<field name="xcoord">41</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">EG73</field>
+		<field name="floor">0</field>
+		<field name="xcoord">27</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">EG74</field>
+		<field name="floor">0</field>
+		<field name="xcoord">50</field>
+		<field name="ycoord">58</field>
+	</row>
+
+	<row>
+		<field name="room">EG78</field>
+		<field name="floor">0</field>
+		<field name="xcoord">40</field>
+		<field name="ycoord">58</field>
+	</row>
+
+	<row>
+		<field name="room">EG80</field>
+		<field name="floor">0</field>
+		<field name="xcoord">27</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">FG11</field>
+		<field name="floor">0</field>
+		<field name="xcoord">333</field>
+		<field name="ycoord">327</field>
+	</row>
+
+	<row>
+		<field name="room">FG14</field>
+		<field name="floor">0</field>
+		<field name="xcoord">358</field>
+		<field name="ycoord">343</field>
+	</row>
+
+	<row>
+		<field name="room">FG15</field>
+		<field name="floor">0</field>
+		<field name="xcoord">333</field>
+		<field name="ycoord">350</field>
+	</row>
+
+	<row>
+		<field name="room">FG16</field>
+		<field name="floor">0</field>
+		<field name="xcoord">358</field>
+		<field name="ycoord">366</field>
+	</row>
+
+	<row>
+		<field name="room">FG17</field>
+		<field name="floor">0</field>
+		<field name="xcoord">333</field>
+		<field name="ycoord">364</field>
+	</row>
+
+	<row>
+		<field name="room">FG18</field>
+		<field name="floor">0</field>
+		<field name="xcoord">358</field>
+		<field name="ycoord">386</field>
+	</row>
+
+	<row>
+		<field name="room">FG19</field>
+		<field name="floor">0</field>
+		<field name="xcoord">333</field>
+		<field name="ycoord">394</field>
+	</row>
+
+	<row>
+		<field name="room">FG27</field>
+		<field name="floor">0</field>
+		<field name="xcoord">328</field>
+		<field name="ycoord">436</field>
+	</row>
+
+	<row>
+		<field name="room">FG37</field>
+		<field name="floor">0</field>
+		<field name="xcoord">352</field>
+		<field name="ycoord">435</field>
+	</row>
+
+	<row>
+		<field name="room">FG39</field>
+		<field name="floor">0</field>
+		<field name="xcoord">362</field>
+		<field name="ycoord">435</field>
+	</row>
+
+	<row>
+		<field name="room">FG40</field>
+		<field name="floor">0</field>
+		<field name="xcoord">371</field>
+		<field name="ycoord">408</field>
+	</row>
+
+	<row>
+		<field name="room">FG42</field>
+		<field name="floor">0</field>
+		<field name="xcoord">397</field>
+		<field name="ycoord">408</field>
+	</row>
+
+	<row>
+		<field name="room">FG51</field>
+		<field name="floor">0</field>
+		<field name="xcoord">405</field>
+		<field name="ycoord">435</field>
+	</row>
+
+	<row>
+		<field name="room">FG57</field>
+		<field name="floor">0</field>
+		<field name="xcoord">405</field>
+		<field name="ycoord">435</field>
+	</row>
+
+	<row>
+		<field name="room">FG59</field>
+		<field name="floor">0</field>
+		<field name="xcoord">440</field>
+		<field name="ycoord">435</field>
+	</row>
+
+	<row>
+		<field name="room">FG60</field>
+		<field name="floor">0</field>
+		<field name="xcoord">440</field>
+		<field name="ycoord">408</field>
+	</row>
+
+	<row>
+		<field name="room">FG70</field>
+		<field name="floor">0</field>
+		<field name="xcoord">372</field>
+		<field name="ycoord">349</field>
+	</row>
+
+	<row>
+		<field name="room">FG71</field>
+		<field name="floor">0</field>
+		<field name="xcoord">372</field>
+		<field name="ycoord">362</field>
+	</row>
+
+	<row>
+		<field name="room">FG72</field>
+		<field name="floor">0</field>
+		<field name="xcoord">375</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG73</field>
+		<field name="floor">0</field>
+		<field name="xcoord">386</field>
+		<field name="ycoord">354</field>
+	</row>
+
+	<row>
+		<field name="room">FG74</field>
+		<field name="floor">0</field>
+		<field name="xcoord">386</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG75</field>
+		<field name="floor">0</field>
+		<field name="xcoord">394</field>
+		<field name="ycoord">354</field>
+	</row>
+
+	<row>
+		<field name="room">FG76</field>
+		<field name="floor">0</field>
+		<field name="xcoord">395</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG77</field>
+		<field name="floor">0</field>
+		<field name="xcoord">403</field>
+		<field name="ycoord">353</field>
+	</row>
+
+	<row>
+		<field name="room">FG78</field>
+		<field name="floor">0</field>
+		<field name="xcoord">403</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG79</field>
+		<field name="floor">0</field>
+		<field name="xcoord">411</field>
+		<field name="ycoord">354</field>
+	</row>
+
+	<row>
+		<field name="room">FG80</field>
+		<field name="floor">0</field>
+		<field name="xcoord">411</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG81</field>
+		<field name="floor">0</field>
+		<field name="xcoord">420</field>
+		<field name="ycoord">354</field>
+	</row>
+
+	<row>
+		<field name="room">FG82</field>
+		<field name="floor">0</field>
+		<field name="xcoord">420</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG83</field>
+		<field name="floor">0</field>
+		<field name="xcoord">429</field>
+		<field name="ycoord">354</field>
+	</row>
+
+	<row>
+		<field name="room">FG84</field>
+		<field name="floor">0</field>
+		<field name="xcoord">429</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG86</field>
+		<field name="floor">0</field>
+		<field name="xcoord">338</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG88</field>
+		<field name="floor">0</field>
+		<field name="xcoord">447</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">FG89</field>
+		<field name="floor">0</field>
+		<field name="xcoord">455</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">G113</field>
+		<field name="floor">1</field>
+		<field name="xcoord">381</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">G129</field>
+		<field name="floor">1</field>
+		<field name="xcoord">417</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">G147</field>
+		<field name="floor">1</field>
+		<field name="xcoord">456</field>
+		<field name="ycoord">300</field>
+	</row>
+
+	<row>
+		<field name="room">G221</field>
+		<field name="floor">2</field>
+		<field name="xcoord">369</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">G225</field>
+		<field name="floor">2</field>
+		<field name="xcoord">391</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">G229</field>
+		<field name="floor">2</field>
+		<field name="xcoord">398</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">G233</field>
+		<field name="floor">2</field>
+		<field name="xcoord">421</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">G237</field>
+		<field name="floor">2</field>
+		<field name="xcoord">426</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">G239</field>
+		<field name="floor">2</field>
+		<field name="xcoord">454</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">G243</field>
+		<field name="floor">2</field>
+		<field name="xcoord">445</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">G247</field>
+		<field name="floor">2</field>
+		<field name="xcoord">459</field>
+		<field name="ycoord">289</field>
+	</row>
+
+	<row>
+		<field name="room">GG13</field>
+		<field name="floor">0</field>
+		<field name="xcoord">358</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">GG19</field>
+		<field name="floor">0</field>
+		<field name="xcoord">376</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">GG23</field>
+		<field name="floor">0</field>
+		<field name="xcoord">394</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">GG27</field>
+		<field name="floor">0</field>
+		<field name="xcoord">412</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">GG31</field>
+		<field name="floor">0</field>
+		<field name="xcoord">430</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">GG33</field>
+		<field name="floor">0</field>
+		<field name="xcoord">446</field>
+		<field name="ycoord">324</field>
+	</row>
+
+	<row>
+		<field name="room">GG35</field>
+		<field name="floor">0</field>
+		<field name="xcoord">455</field>
+		<field name="ycoord">324</field>
+	</row>
+
+	<row>
+		<field name="room">GG40</field>
+		<field name="floor">0</field>
+		<field name="xcoord">440</field>
+		<field name="ycoord">303</field>
+	</row>
+
+	<row>
+		<field name="room">H112</field>
+		<field name="floor">1</field>
+		<field name="xcoord">367</field>
+		<field name="ycoord">149</field>
+	</row>
+
+	<row>
+		<field name="room">H128</field>
+		<field name="floor">1</field>
+		<field name="xcoord">399</field>
+		<field name="ycoord">187</field>
+	</row>
+
+	<row>
+		<field name="room">H134</field>
+		<field name="floor">1</field>
+		<field name="xcoord">416</field>
+		<field name="ycoord">187</field>
+	</row>
+
+	<row>
+		<field name="room">H140</field>
+		<field name="floor">1</field>
+		<field name="xcoord">435</field>
+		<field name="ycoord">187</field>
+	</row>
+
+	<row>
+		<field name="room">H141</field>
+		<field name="floor">1</field>
+		<field name="xcoord">456</field>
+		<field name="ycoord">197</field>
+	</row>
+
+	<row>
+		<field name="room">H143</field>
+		<field name="floor">1</field>
+		<field name="xcoord">456</field>
+		<field name="ycoord">187</field>
+	</row>
+
+	<row>
+		<field name="room">H212</field>
+		<field name="floor">2</field>
+		<field name="xcoord">388</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">H218</field>
+		<field name="floor">2</field>
+		<field name="xcoord">361</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">H220</field>
+		<field name="floor">2</field>
+		<field name="xcoord">377</field>
+		<field name="ycoord">182</field>
+	</row>
+
+	<row>
+		<field name="room">H222</field>
+		<field name="floor">2</field>
+		<field name="xcoord">395</field>
+		<field name="ycoord">182</field>
+	</row>
+
+	<row>
+		<field name="room">H228</field>
+		<field name="floor">2</field>
+		<field name="xcoord">411</field>
+		<field name="ycoord">182</field>
+	</row>
+
+	<row>
+		<field name="room">H236</field>
+		<field name="floor">2</field>
+		<field name="xcoord">427</field>
+		<field name="ycoord">182</field>
+	</row>
+
+	<row>
+		<field name="room">H238</field>
+		<field name="floor">2</field>
+		<field name="xcoord">443</field>
+		<field name="ycoord">182</field>
+	</row>
+
+	<row>
+		<field name="room">H240</field>
+		<field name="floor">2</field>
+		<field name="xcoord">454</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">H241</field>
+		<field name="floor">2</field>
+		<field name="xcoord">459</field>
+		<field name="ycoord">191</field>
+	</row>
+
+	<row>
+		<field name="room">H243</field>
+		<field name="floor">2</field>
+		<field name="xcoord">459</field>
+		<field name="ycoord">181</field>
+	</row>
+
+	<row>
+		<field name="room">HG10</field>
+		<field name="floor">0</field>
+		<field name="xcoord">359</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">HG20</field>
+		<field name="floor">0</field>
+		<field name="xcoord">403</field>
+		<field name="ycoord">209</field>
+	</row>
+
+	<row>
+		<field name="room">K111</field>
+		<field name="floor">1</field>
+		<field name="xcoord">361</field>
+		<field name="ycoord">100</field>
+	</row>
+
+	<row>
+		<field name="room">K112</field>
+		<field name="floor">1</field>
+		<field name="xcoord">332</field>
+		<field name="ycoord">117</field>
+	</row>
+
+	<row>
+		<field name="room">K113</field>
+		<field name="floor">1</field>
+		<field name="xcoord">367</field>
+		<field name="ycoord">121</field>
+	</row>
+
+	<row>
+		<field name="room">K114</field>
+		<field name="floor">1</field>
+		<field name="xcoord">330</field>
+		<field name="ycoord">117</field>
+	</row>
+
+	<row>
+		<field name="room">K116</field>
+		<field name="floor">1</field>
+		<field name="xcoord">338</field>
+		<field name="ycoord">104</field>
+	</row>
+
+	<row>
+		<field name="room">K118</field>
+		<field name="floor">1</field>
+		<field name="xcoord">344</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">K126</field>
+		<field name="floor">1</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">66</field>
+	</row>
+
+	<row>
+		<field name="room">K130</field>
+		<field name="floor">1</field>
+		<field name="xcoord">325</field>
+		<field name="ycoord">40</field>
+	</row>
+
+	<row>
+		<field name="room">K131</field>
+		<field name="floor">1</field>
+		<field name="xcoord">318</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">K132</field>
+		<field name="floor">1</field>
+		<field name="xcoord">313</field>
+		<field name="ycoord">30</field>
+	</row>
+
+	<row>
+		<field name="room">K133</field>
+		<field name="floor">1</field>
+		<field name="xcoord">342</field>
+		<field name="ycoord">55</field>
+	</row>
+
+	<row>
+		<field name="room">K134</field>
+		<field name="floor">1</field>
+		<field name="xcoord">322</field>
+		<field name="ycoord">28</field>
+	</row>
+
+	<row>
+		<field name="room">K136</field>
+		<field name="floor">1</field>
+		<field name="xcoord">332</field>
+		<field name="ycoord">28</field>
+	</row>
+
+	<row>
+		<field name="room">K138</field>
+		<field name="floor">1</field>
+		<field name="xcoord">340</field>
+		<field name="ycoord">30</field>
+	</row>
+
+	<row>
+		<field name="room">K140</field>
+		<field name="floor">1</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">K143</field>
+		<field name="floor">1</field>
+		<field name="xcoord">392</field>
+		<field name="ycoord">63</field>
+	</row>
+
+	<row>
+		<field name="room">K144</field>
+		<field name="floor">1</field>
+		<field name="xcoord">387</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">K146</field>
+		<field name="floor">1</field>
+		<field name="xcoord">400</field>
+		<field name="ycoord">31</field>
+	</row>
+
+	<row>
+		<field name="room">K148</field>
+		<field name="floor">1</field>
+		<field name="xcoord">438</field>
+		<field name="ycoord">32</field>
+	</row>
+
+	<row>
+		<field name="room">K151</field>
+		<field name="floor">1</field>
+		<field name="xcoord">408</field>
+		<field name="ycoord">63</field>
+	</row>
+
+	<row>
+		<field name="room">K157</field>
+		<field name="floor">1</field>
+		<field name="xcoord">425</field>
+		<field name="ycoord">63</field>
+	</row>
+
+	<row>
+		<field name="room">K160</field>
+		<field name="floor">1</field>
+		<field name="xcoord">455</field>
+		<field name="ycoord">37</field>
+	</row>
+
+	<row>
+		<field name="room">K161</field>
+		<field name="floor">1</field>
+		<field name="xcoord">447</field>
+		<field name="ycoord">61</field>
+	</row>
+
+	<row>
+		<field name="room">K212</field>
+		<field name="floor">2</field>
+		<field name="xcoord">338</field>
+		<field name="ycoord">103</field>
+	</row>
+
+	<row>
+		<field name="room">K213</field>
+		<field name="floor">2</field>
+		<field name="xcoord">368</field>
+		<field name="ycoord">115</field>
+	</row>
+
+	<row>
+		<field name="room">K217</field>
+		<field name="floor">2</field>
+		<field name="xcoord">368</field>
+		<field name="ycoord">98</field>
+	</row>
+
+	<row>
+		<field name="room">K219</field>
+		<field name="floor">2</field>
+		<field name="xcoord">368</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">K220</field>
+		<field name="floor">2</field>
+		<field name="xcoord">339</field>
+		<field name="ycoord">81</field>
+	</row>
+
+	<row>
+		<field name="room">K221</field>
+		<field name="floor">2</field>
+		<field name="xcoord">368</field>
+		<field name="ycoord">78</field>
+	</row>
+
+	<row>
+		<field name="room">K224</field>
+		<field name="floor">2</field>
+		<field name="xcoord">342</field>
+		<field name="ycoord">67</field>
+	</row>
+
+	<row>
+		<field name="room">K228</field>
+		<field name="floor">2</field>
+		<field name="xcoord">343</field>
+		<field name="ycoord">58</field>
+	</row>
+
+	<row>
+		<field name="room">K230</field>
+		<field name="floor">2</field>
+		<field name="xcoord">319</field>
+		<field name="ycoord">39</field>
+	</row>
+
+	<row>
+		<field name="room">K231</field>
+		<field name="floor">2</field>
+		<field name="xcoord">319</field>
+		<field name="ycoord">63</field>
+	</row>
+
+	<row>
+		<field name="room">K232</field>
+		<field name="floor">2</field>
+		<field name="xcoord">320</field>
+		<field name="ycoord">27</field>
+	</row>
+
+	<row>
+		<field name="room">K234</field>
+		<field name="floor">2</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K238</field>
+		<field name="floor">2</field>
+		<field name="xcoord">353</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K242</field>
+		<field name="floor">2</field>
+		<field name="xcoord">370</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K243</field>
+		<field name="floor">2</field>
+		<field name="xcoord">387</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">K246</field>
+		<field name="floor">2</field>
+		<field name="xcoord">387</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K249</field>
+		<field name="floor">2</field>
+		<field name="xcoord">404</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">K250</field>
+		<field name="floor">2</field>
+		<field name="xcoord">413</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K253</field>
+		<field name="floor">2</field>
+		<field name="xcoord">422</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">K254</field>
+		<field name="floor">2</field>
+		<field name="xcoord">435</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K256</field>
+		<field name="floor">2</field>
+		<field name="xcoord">444</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K258</field>
+		<field name="floor">2</field>
+		<field name="xcoord">457</field>
+		<field name="ycoord">39</field>
+	</row>
+
+	<row>
+		<field name="room">K259</field>
+		<field name="floor">2</field>
+		<field name="xcoord">449</field>
+		<field name="ycoord">59</field>
+	</row>
+
+	<row>
+		<field name="room">K260</field>
+		<field name="floor">2</field>
+		<field name="xcoord">457</field>
+		<field name="ycoord">28</field>
+	</row>
+
+	<row>
+		<field name="room">K263</field>
+		<field name="floor">2</field>
+		<field name="xcoord">449</field>
+		<field name="ycoord">68</field>
+	</row>
+
+	<row>
+		<field name="room">K311</field>
+		<field name="floor">3</field>
+		<field name="xcoord">362</field>
+		<field name="ycoord">115</field>
+	</row>
+
+	<row>
+		<field name="room">K312</field>
+		<field name="floor">3</field>
+		<field name="xcoord">331</field>
+		<field name="ycoord">114</field>
+	</row>
+
+	<row>
+		<field name="room">K313</field>
+		<field name="floor">3</field>
+		<field name="xcoord">362</field>
+		<field name="ycoord">97</field>
+	</row>
+
+	<row>
+		<field name="room">K316</field>
+		<field name="floor">3</field>
+		<field name="xcoord">331</field>
+		<field name="ycoord">97</field>
+	</row>
+
+	<row>
+		<field name="room">K317</field>
+		<field name="floor">3</field>
+		<field name="xcoord">362</field>
+		<field name="ycoord">85</field>
+	</row>
+
+	<row>
+		<field name="room">K319</field>
+		<field name="floor">3</field>
+		<field name="xcoord">362</field>
+		<field name="ycoord">77</field>
+	</row>
+
+	<row>
+		<field name="room">K320</field>
+		<field name="floor">3</field>
+		<field name="xcoord">331</field>
+		<field name="ycoord">80</field>
+	</row>
+
+	<row>
+		<field name="room">K324</field>
+		<field name="floor">3</field>
+		<field name="xcoord">336</field>
+		<field name="ycoord">67</field>
+	</row>
+
+	<row>
+		<field name="room">K326</field>
+		<field name="floor">3</field>
+		<field name="xcoord">317</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">K330</field>
+		<field name="floor">3</field>
+		<field name="xcoord">306</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K332</field>
+		<field name="floor">3</field>
+		<field name="xcoord">315</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K336</field>
+		<field name="floor">3</field>
+		<field name="xcoord">329</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K340</field>
+		<field name="floor">3</field>
+		<field name="xcoord">347</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K342</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K344</field>
+		<field name="floor">3</field>
+		<field name="xcoord">369</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K345</field>
+		<field name="floor">3</field>
+		<field name="xcoord">378</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">K348</field>
+		<field name="floor">3</field>
+		<field name="xcoord">378</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K350</field>
+		<field name="floor">3</field>
+		<field name="xcoord">387</field>
+		<field name="ycoord">30</field>
+	</row>
+
+	<row>
+		<field name="room">K351</field>
+		<field name="floor">3</field>
+		<field name="xcoord">396</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">K352</field>
+		<field name="floor">3</field>
+		<field name="xcoord">405</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K355</field>
+		<field name="floor">3</field>
+		<field name="xcoord">419</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">K358</field>
+		<field name="floor">3</field>
+		<field name="xcoord">418</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K359</field>
+		<field name="floor">3</field>
+		<field name="xcoord">438</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">K363</field>
+		<field name="floor">3</field>
+		<field name="xcoord">456</field>
+		<field name="ycoord">62</field>
+	</row>
+
+	<row>
+		<field name="room">K364</field>
+		<field name="floor">3</field>
+		<field name="xcoord">438</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K366</field>
+		<field name="floor">3</field>
+		<field name="xcoord">451</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">K368</field>
+		<field name="floor">3</field>
+		<field name="xcoord">460</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">KG13</field>
+		<field name="floor">0</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">137</field>
+	</row>
+
+	<row>
+		<field name="room">KG20</field>
+		<field name="floor">0</field>
+		<field name="xcoord">332</field>
+		<field name="ycoord">113</field>
+	</row>
+
+	<row>
+		<field name="room">KG21</field>
+		<field name="floor">0</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">113</field>
+	</row>
+
+	<row>
+		<field name="room">KG24</field>
+		<field name="floor">0</field>
+		<field name="xcoord">336</field>
+		<field name="ycoord">85</field>
+	</row>
+
+	<row>
+		<field name="room">KG30</field>
+		<field name="floor">0</field>
+		<field name="xcoord">320</field>
+		<field name="ycoord">59</field>
+	</row>
+
+	<row>
+		<field name="room">KG31</field>
+		<field name="floor">0</field>
+		<field name="xcoord">319</field>
+		<field name="ycoord">81</field>
+	</row>
+
+	<row>
+		<field name="room">KG36</field>
+		<field name="floor">0</field>
+		<field name="xcoord">356</field>
+		<field name="ycoord">66</field>
+	</row>
+
+	<row>
+		<field name="room">KG44</field>
+		<field name="floor">0</field>
+		<field name="xcoord">395</field>
+		<field name="ycoord">59</field>
+	</row>
+
+	<row>
+		<field name="room">KG47</field>
+		<field name="floor">0</field>
+		<field name="xcoord">394</field>
+		<field name="ycoord">85</field>
+	</row>
+
+	<row>
+		<field name="room">KG48</field>
+		<field name="floor">0</field>
+		<field name="xcoord">412</field>
+		<field name="ycoord">64</field>
+	</row>
+
+	<row>
+		<field name="room">KG55</field>
+		<field name="floor">0</field>
+		<field name="xcoord">429</field>
+		<field name="ycoord">85</field>
+	</row>
+
+	<row>
+		<field name="room">KG56</field>
+		<field name="floor">0</field>
+		<field name="xcoord">433</field>
+		<field name="ycoord">65</field>
+	</row>
+
+	<row>
+		<field name="room">KG59</field>
+		<field name="floor">0</field>
+		<field name="xcoord">446</field>
+		<field name="ycoord">85</field>
+	</row>
+
+	<row>
+		<field name="room">KG64</field>
+		<field name="floor">0</field>
+		<field name="xcoord">446</field>
+		<field name="ycoord">65</field>
+	</row>
+
+	<row>
+		<field name="room">L110</field>
+		<field name="floor">1</field>
+		<field name="xcoord">364</field>
+		<field name="ycoord">239</field>
+	</row>
+
+	<row>
+		<field name="room">L112</field>
+		<field name="floor">1</field>
+		<field name="xcoord">364</field>
+		<field name="ycoord">250</field>
+	</row>
+
+	<row>
+		<field name="room">L114</field>
+		<field name="floor">1</field>
+		<field name="xcoord">364</field>
+		<field name="ycoord">261</field>
+	</row>
+
+	<row>
+		<field name="room">L126</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">250</field>
+	</row>
+
+	<row>
+		<field name="room">L151,LR3</field>
+		<field name="floor">1</field>
+		<field name="xcoord">320</field>
+		<field name="ycoord">249</field>
+	</row>
+
+	<row>
+		<field name="room">L158,1384</field>
+		<field name="floor">1</field>
+		<field name="xcoord">303</field>
+		<field name="ycoord">312</field>
+	</row>
+
+	<row>
+		<field name="room">L160,1386</field>
+		<field name="floor">1</field>
+		<field name="xcoord">283</field>
+		<field name="ycoord">312</field>
+	</row>
+
+	<row>
+		<field name="room">L168,1395</field>
+		<field name="floor">1</field>
+		<field name="xcoord">212</field>
+		<field name="ycoord">312</field>
+	</row>
+
+	<row>
+		<field name="room">L170,1396</field>
+		<field name="floor">1</field>
+		<field name="xcoord">192</field>
+		<field name="ycoord">312</field>
+	</row>
+
+	<row>
+		<field name="room">L171,LR2</field>
+		<field name="floor">1</field>
+		<field name="xcoord">175</field>
+		<field name="ycoord">249</field>
+	</row>
+
+	<row>
+		<field name="room">L196</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">241</field>
+	</row>
+
+	<row>
+		<field name="room">L211,LR6</field>
+		<field name="floor">2</field>
+		<field name="xcoord">312</field>
+		<field name="ycoord">246</field>
+	</row>
+
+	<row>
+		<field name="room">L220</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">262</field>
+	</row>
+
+	<row>
+		<field name="room">L221,LR8</field>
+		<field name="floor">2</field>
+		<field name="xcoord">341</field>
+		<field name="ycoord">237</field>
+	</row>
+
+	<row>
+		<field name="room">L222</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">253</field>
+	</row>
+
+	<row>
+		<field name="room">L226</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">245</field>
+	</row>
+
+	<row>
+		<field name="room">L251,LR7</field>
+		<field name="floor">2</field>
+		<field name="xcoord">301</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">L266</field>
+		<field name="floor">2</field>
+		<field name="xcoord">217</field>
+		<field name="ycoord">302</field>
+	</row>
+
+	<row>
+		<field name="room">L267</field>
+		<field name="floor">2</field>
+		<field name="xcoord">226</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">L268</field>
+		<field name="floor">2</field>
+		<field name="xcoord">207</field>
+		<field name="ycoord">308</field>
+	</row>
+
+	<row>
+		<field name="room">L269,L275,L277</field>
+		<field name="floor">2</field>
+		<field name="xcoord">192</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">L270</field>
+		<field name="floor">2</field>
+		<field name="xcoord">200</field>
+		<field name="ycoord">302</field>
+	</row>
+
+	<row>
+		<field name="room">L272</field>
+		<field name="floor">2</field>
+		<field name="xcoord">189</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">L274</field>
+		<field name="floor">2</field>
+		<field name="xcoord">176</field>
+		<field name="ycoord">308</field>
+	</row>
+
+	<row>
+		<field name="room">L291</field>
+		<field name="floor">2</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">267</field>
+	</row>
+
+	<row>
+		<field name="room">L293</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">255</field>
+	</row>
+
+	<row>
+		<field name="room">L295</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">245</field>
+	</row>
+
+	<row>
+		<field name="room">L310</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">232</field>
+	</row>
+
+	<row>
+		<field name="room">L312</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">240</field>
+	</row>
+
+	<row>
+		<field name="room">L314</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">251</field>
+	</row>
+
+	<row>
+		<field name="room">L318</field>
+		<field name="floor">3</field>
+		<field name="xcoord">362</field>
+		<field name="ycoord">264</field>
+	</row>
+
+	<row>
+		<field name="room">L324</field>
+		<field name="floor">3</field>
+		<field name="xcoord">362</field>
+		<field name="ycoord">303</field>
+	</row>
+
+	<row>
+		<field name="room">L361</field>
+		<field name="floor">3</field>
+		<field name="xcoord">239</field>
+		<field name="ycoord">249</field>
+	</row>
+
+	<row>
+		<field name="room">L363</field>
+		<field name="floor">3</field>
+		<field name="xcoord">237</field>
+		<field name="ycoord">275</field>
+	</row>
+
+	<row>
+		<field name="room">L365</field>
+		<field name="floor">3</field>
+		<field name="xcoord">205</field>
+		<field name="ycoord">269</field>
+	</row>
+
+	<row>
+		<field name="room">L367</field>
+		<field name="floor">3</field>
+		<field name="xcoord">200</field>
+		<field name="ycoord">279</field>
+	</row>
+
+	<row>
+		<field name="room">L369</field>
+		<field name="floor">3</field>
+		<field name="xcoord">195</field>
+		<field name="ycoord">269</field>
+	</row>
+
+	<row>
+		<field name="room">L370</field>
+		<field name="floor">3</field>
+		<field name="xcoord">189</field>
+		<field name="ycoord">301</field>
+	</row>
+
+	<row>
+		<field name="room">L372</field>
+		<field name="floor">3</field>
+		<field name="xcoord">205</field>
+		<field name="ycoord">301</field>
+	</row>
+
+	<row>
+		<field name="room">L373</field>
+		<field name="floor">3</field>
+		<field name="xcoord">181</field>
+		<field name="ycoord">274</field>
+	</row>
+
+	<row>
+		<field name="room">L374</field>
+		<field name="floor">3</field>
+		<field name="xcoord">175</field>
+		<field name="ycoord">306</field>
+	</row>
+
+	<row>
+		<field name="room">L375</field>
+		<field name="floor">3</field>
+		<field name="xcoord">161</field>
+		<field name="ycoord">274</field>
+	</row>
+
+	<row>
+		<field name="room">L376</field>
+		<field name="floor">3</field>
+		<field name="xcoord">175</field>
+		<field name="ycoord">297</field>
+	</row>
+
+	<row>
+		<field name="room">L380</field>
+		<field name="floor">3</field>
+		<field name="xcoord">112</field>
+		<field name="ycoord">292</field>
+	</row>
+
+	<row>
+		<field name="room">L382</field>
+		<field name="floor">3</field>
+		<field name="xcoord">112</field>
+		<field name="ycoord">277</field>
+	</row>
+
+	<row>
+		<field name="room">L386</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">249</field>
+	</row>
+
+	<row>
+		<field name="room">L387</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">256</field>
+	</row>
+
+	<row>
+		<field name="room">L389</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">247</field>
+	</row>
+
+	<row>
+		<field name="room">L391</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">239</field>
+	</row>
+
+	<row>
+		<field name="room">L393</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">230</field>
+	</row>
+
+	<row>
+		<field name="room">L396</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">231</field>
+	</row>
+
+	<row>
+		<field name="room">LG52,B384</field>
+		<field name="floor">0</field>
+		<field name="xcoord">300</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">LG54</field>
+		<field name="floor">0</field>
+		<field name="xcoord">300</field>
+		<field name="ycoord">327</field>
+	</row>
+
+	<row>
+		<field name="room">LG62</field>
+		<field name="floor">0</field>
+		<field name="xcoord">278</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">LG63,B392</field>
+		<field name="floor">0</field>
+		<field name="xcoord">225</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">LG66,B388</field>
+		<field name="floor">0</field>
+		<field name="xcoord">254</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">LG72,B396</field>
+		<field name="floor">0</field>
+		<field name="xcoord">202</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">LG76,B397</field>
+		<field name="floor">0</field>
+		<field name="xcoord">179</field>
+		<field name="ycoord">322</field>
+	</row>
+
+	<row>
+		<field name="room">M110</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">231</field>
+	</row>
+
+	<row>
+		<field name="room">M112</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">222</field>
+	</row>
+
+	<row>
+		<field name="room">M113,LR4</field>
+		<field name="floor">1</field>
+		<field name="xcoord">176</field>
+		<field name="ycoord">210</field>
+	</row>
+
+	<row>
+		<field name="room">M116</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">214</field>
+	</row>
+
+	<row>
+		<field name="room">M118</field>
+		<field name="floor">1</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M120</field>
+		<field name="floor">1</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">189</field>
+	</row>
+
+	<row>
+		<field name="room">M128</field>
+		<field name="floor">1</field>
+		<field name="xcoord">156</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">M152</field>
+		<field name="floor">1</field>
+		<field name="xcoord">274</field>
+		<field name="ycoord">159</field>
+	</row>
+
+	<row>
+		<field name="room">M164</field>
+		<field name="floor">1</field>
+		<field name="xcoord">301</field>
+		<field name="ycoord">159</field>
+	</row>
+
+	<row>
+		<field name="room">M166</field>
+		<field name="floor">1</field>
+		<field name="xcoord">323</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M177</field>
+		<field name="floor">1</field>
+		<field name="xcoord">340</field>
+		<field name="ycoord">156</field>
+	</row>
+
+	<row>
+		<field name="room">M190</field>
+		<field name="floor">1</field>
+		<field name="xcoord">364</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M192</field>
+		<field name="floor">1</field>
+		<field name="xcoord">364</field>
+		<field name="ycoord">216</field>
+	</row>
+
+	<row>
+		<field name="room">M193,LR5</field>
+		<field name="floor">1</field>
+		<field name="xcoord">320</field>
+		<field name="ycoord">210</field>
+	</row>
+
+	<row>
+		<field name="room">M194</field>
+		<field name="floor">1</field>
+		<field name="xcoord">364</field>
+		<field name="ycoord">227</field>
+	</row>
+
+	<row>
+		<field name="room">M210</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">224</field>
+	</row>
+
+	<row>
+		<field name="room">M211</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">237</field>
+	</row>
+
+	<row>
+		<field name="room">M213</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">228</field>
+	</row>
+
+	<row>
+		<field name="room">M215</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">217</field>
+	</row>
+
+	<row>
+		<field name="room">M228</field>
+		<field name="floor">2</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">M233</field>
+		<field name="floor">2</field>
+		<field name="xcoord">172</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M234</field>
+		<field name="floor">2</field>
+		<field name="xcoord">176</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M235</field>
+		<field name="floor">2</field>
+		<field name="xcoord">184</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M237</field>
+		<field name="floor">2</field>
+		<field name="xcoord">195</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M238</field>
+		<field name="floor">2</field>
+		<field name="xcoord">194</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M239</field>
+		<field name="floor">2</field>
+		<field name="xcoord">208</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M242</field>
+		<field name="floor">2</field>
+		<field name="xcoord">213</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M243</field>
+		<field name="floor">2</field>
+		<field name="xcoord">218</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M244</field>
+		<field name="floor">2</field>
+		<field name="xcoord">234</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M248</field>
+		<field name="floor">2</field>
+		<field name="xcoord">245</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M250</field>
+		<field name="floor">2</field>
+		<field name="xcoord">255</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M251</field>
+		<field name="floor">2</field>
+		<field name="xcoord">161</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M252</field>
+		<field name="floor">2</field>
+		<field name="xcoord">270</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M259</field>
+		<field name="floor">2</field>
+		<field name="xcoord">280</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M260</field>
+		<field name="floor">2</field>
+		<field name="xcoord">285</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M261</field>
+		<field name="floor">2</field>
+		<field name="xcoord">289</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M264</field>
+		<field name="floor">2</field>
+		<field name="xcoord">307</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M265</field>
+		<field name="floor">2</field>
+		<field name="xcoord">307</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M266</field>
+		<field name="floor">2</field>
+		<field name="xcoord">328</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M273</field>
+		<field name="floor">2</field>
+		<field name="xcoord">336</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M277</field>
+		<field name="floor">2</field>
+		<field name="xcoord">341</field>
+		<field name="ycoord">154</field>
+	</row>
+
+	<row>
+		<field name="room">M290</field>
+		<field name="floor">2</field>
+		<field name="xcoord">365</field>
+		<field name="ycoord">201</field>
+	</row>
+
+	<row>
+		<field name="room">M292</field>
+		<field name="floor">2</field>
+		<field name="xcoord">365</field>
+		<field name="ycoord">211</field>
+	</row>
+
+	<row>
+		<field name="room">M294</field>
+		<field name="floor">2</field>
+		<field name="xcoord">365</field>
+		<field name="ycoord">223</field>
+	</row>
+
+	<row>
+		<field name="room">M295</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">237</field>
+	</row>
+
+	<row>
+		<field name="room">M309</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">221</field>
+	</row>
+
+	<row>
+		<field name="room">M310</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">223</field>
+	</row>
+
+	<row>
+		<field name="room">M311</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">212</field>
+	</row>
+
+	<row>
+		<field name="room">M312</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">214</field>
+	</row>
+
+	<row>
+		<field name="room">M313</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">203</field>
+	</row>
+
+	<row>
+		<field name="room">M314</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">201</field>
+	</row>
+
+	<row>
+		<field name="room">M315</field>
+		<field name="floor">3</field>
+		<field name="xcoord">143</field>
+		<field name="ycoord">195</field>
+	</row>
+
+	<row>
+		<field name="room">M316</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M318</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">171</field>
+	</row>
+
+	<row>
+		<field name="room">M320</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">164</field>
+	</row>
+
+	<row>
+		<field name="room">M322</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">154</field>
+	</row>
+
+	<row>
+		<field name="room">M324</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">146</field>
+	</row>
+
+	<row>
+		<field name="room">M328</field>
+		<field name="floor">3</field>
+		<field name="xcoord">147</field>
+		<field name="ycoord">153</field>
+	</row>
+
+	<row>
+		<field name="room">M334</field>
+		<field name="floor">3</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">155</field>
+	</row>
+
+	<row>
+		<field name="room">M335</field>
+		<field name="floor">3</field>
+		<field name="xcoord">170</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M337</field>
+		<field name="floor">3</field>
+		<field name="xcoord">194</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M338</field>
+		<field name="floor">3</field>
+		<field name="xcoord">199</field>
+		<field name="ycoord">154</field>
+	</row>
+
+	<row>
+		<field name="room">M344</field>
+		<field name="floor">3</field>
+		<field name="xcoord">228</field>
+		<field name="ycoord">154</field>
+	</row>
+
+	<row>
+		<field name="room">M345</field>
+		<field name="floor">3</field>
+		<field name="xcoord">239</field>
+		<field name="ycoord">211</field>
+	</row>
+
+	<row>
+		<field name="room">M346</field>
+		<field name="floor">3</field>
+		<field name="xcoord">243</field>
+		<field name="ycoord">162</field>
+	</row>
+
+	<row>
+		<field name="room">M348</field>
+		<field name="floor">3</field>
+		<field name="xcoord">254</field>
+		<field name="ycoord">162</field>
+	</row>
+
+	<row>
+		<field name="room">M349</field>
+		<field name="floor">3</field>
+		<field name="xcoord">239</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M350</field>
+		<field name="floor">3</field>
+		<field name="xcoord">243</field>
+		<field name="ycoord">153</field>
+	</row>
+
+	<row>
+		<field name="room">M352</field>
+		<field name="floor">3</field>
+		<field name="xcoord">243</field>
+		<field name="ycoord">145</field>
+	</row>
+
+	<row>
+		<field name="room">M355</field>
+		<field name="floor">3</field>
+		<field name="xcoord">267</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M356</field>
+		<field name="floor">3</field>
+		<field name="xcoord">270</field>
+		<field name="ycoord">162</field>
+	</row>
+
+	<row>
+		<field name="room">M360</field>
+		<field name="floor">3</field>
+		<field name="xcoord">280</field>
+		<field name="ycoord">150</field>
+	</row>
+
+	<row>
+		<field name="room">M362</field>
+		<field name="floor">3</field>
+		<field name="xcoord">259</field>
+		<field name="ycoord">150</field>
+	</row>
+
+	<row>
+		<field name="room">M364</field>
+		<field name="floor">3</field>
+		<field name="xcoord">294</field>
+		<field name="ycoord">150</field>
+	</row>
+
+	<row>
+		<field name="room">M366</field>
+		<field name="floor">3</field>
+		<field name="xcoord">304</field>
+		<field name="ycoord">162</field>
+	</row>
+
+	<row>
+		<field name="room">M367</field>
+		<field name="floor">3</field>
+		<field name="xcoord">298</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M370</field>
+		<field name="floor">3</field>
+		<field name="xcoord">321</field>
+		<field name="ycoord">151</field>
+	</row>
+
+	<row>
+		<field name="room">M372</field>
+		<field name="floor">3</field>
+		<field name="xcoord">324</field>
+		<field name="ycoord">162</field>
+	</row>
+
+	<row>
+		<field name="room">M374</field>
+		<field name="floor">3</field>
+		<field name="xcoord">336</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">M376</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">143</field>
+	</row>
+
+	<row>
+		<field name="room">M377</field>
+		<field name="floor">3</field>
+		<field name="xcoord">334</field>
+		<field name="ycoord">142</field>
+	</row>
+
+	<row>
+		<field name="room">M378</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">154</field>
+	</row>
+
+	<row>
+		<field name="room">M382</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">164</field>
+	</row>
+
+	<row>
+		<field name="room">M384</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">172</field>
+	</row>
+
+	<row>
+		<field name="room">M386</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">180</field>
+	</row>
+
+	<row>
+		<field name="room">M388</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">189</field>
+	</row>
+
+	<row>
+		<field name="room">M390</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">198</field>
+	</row>
+
+	<row>
+		<field name="room">M392</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">207</field>
+	</row>
+
+	<row>
+		<field name="room">M394</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">215</field>
+	</row>
+
+	<row>
+		<field name="room">M396</field>
+		<field name="floor">3</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">224</field>
+	</row>
+
+	<row>
+		<field name="room">MG10</field>
+		<field name="floor">0</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">244</field>
+	</row>
+
+	<row>
+		<field name="room">MG11</field>
+		<field name="floor">0</field>
+		<field name="xcoord">158</field>
+		<field name="ycoord">227</field>
+	</row>
+
+	<row>
+		<field name="room">MG12</field>
+		<field name="floor">0</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">234</field>
+	</row>
+
+	<row>
+		<field name="room">MG14</field>
+		<field name="floor">0</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">222</field>
+	</row>
+
+	<row>
+		<field name="room">MG18</field>
+		<field name="floor">0</field>
+		<field name="xcoord">110</field>
+		<field name="ycoord">208</field>
+	</row>
+
+	<row>
+		<field name="room">MG22</field>
+		<field name="floor">0</field>
+		<field name="xcoord">110</field>
+		<field name="ycoord">193</field>
+	</row>
+
+	<row>
+		<field name="room">MG28</field>
+		<field name="floor">0</field>
+		<field name="xcoord">146</field>
+		<field name="ycoord">175</field>
+	</row>
+
+	<row>
+		<field name="room">MG32</field>
+		<field name="floor">0</field>
+		<field name="xcoord">172</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG33</field>
+		<field name="floor">0</field>
+		<field name="xcoord">173</field>
+		<field name="ycoord">207</field>
+	</row>
+
+	<row>
+		<field name="room">MG35</field>
+		<field name="floor">0</field>
+		<field name="xcoord">190</field>
+		<field name="ycoord">219</field>
+	</row>
+
+	<row>
+		<field name="room">MG36</field>
+		<field name="floor">0</field>
+		<field name="xcoord">203</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG38</field>
+		<field name="floor">0</field>
+		<field name="xcoord">215</field>
+		<field name="ycoord">210</field>
+	</row>
+
+	<row>
+		<field name="room">MG39</field>
+		<field name="floor">0</field>
+		<field name="xcoord">218</field>
+		<field name="ycoord">235</field>
+	</row>
+
+	<row>
+		<field name="room">MG43</field>
+		<field name="floor">0</field>
+		<field name="xcoord">233</field>
+		<field name="ycoord">231</field>
+	</row>
+
+	<row>
+		<field name="room">MG45</field>
+		<field name="floor">0</field>
+		<field name="xcoord">242</field>
+		<field name="ycoord">247</field>
+	</row>
+
+	<row>
+		<field name="room">MG47</field>
+		<field name="floor">0</field>
+		<field name="xcoord">222</field>
+		<field name="ycoord">257</field>
+	</row>
+
+	<row>
+		<field name="room">MG51</field>
+		<field name="floor">0</field>
+		<field name="xcoord">261</field>
+		<field name="ycoord">253</field>
+	</row>
+
+	<row>
+		<field name="room">MG55</field>
+		<field name="floor">0</field>
+		<field name="xcoord">251</field>
+		<field name="ycoord">232</field>
+	</row>
+
+	<row>
+		<field name="room">MG57</field>
+		<field name="floor">0</field>
+		<field name="xcoord">259</field>
+		<field name="ycoord">232</field>
+	</row>
+
+	<row>
+		<field name="room">MG59</field>
+		<field name="floor">0</field>
+		<field name="xcoord">268</field>
+		<field name="ycoord">232</field>
+	</row>
+
+	<row>
+		<field name="room">MG63</field>
+		<field name="floor">0</field>
+		<field name="xcoord">296</field>
+		<field name="ycoord">233</field>
+	</row>
+
+	<row>
+		<field name="room">MG65</field>
+		<field name="floor">0</field>
+		<field name="xcoord">296</field>
+		<field name="ycoord">222</field>
+	</row>
+
+	<row>
+		<field name="room">MG67</field>
+		<field name="floor">0</field>
+		<field name="xcoord">286</field>
+		<field name="ycoord">217</field>
+	</row>
+
+	<row>
+		<field name="room">MG70</field>
+		<field name="floor">0</field>
+		<field name="xcoord">222</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG72</field>
+		<field name="floor">0</field>
+		<field name="xcoord">239</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG74</field>
+		<field name="floor">0</field>
+		<field name="xcoord">262</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG76</field>
+		<field name="floor">0</field>
+		<field name="xcoord">278</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG78</field>
+		<field name="floor">0</field>
+		<field name="xcoord">295</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG80</field>
+		<field name="floor">0</field>
+		<field name="xcoord">312</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">MG82</field>
+		<field name="floor">0</field>
+		<field name="xcoord">330</field>
+		<field name="ycoord">176</field>
+	</row>
+
+	<row>
+		<field name="room">MG89,Mailroom</field>
+		<field name="floor">0</field>
+		<field name="xcoord">327</field>
+		<field name="ycoord">226</field>
+	</row>
+
+	<row>
+		<field name="room">MG90</field>
+		<field name="floor">0</field>
+		<field name="xcoord">358</field>
+		<field name="ycoord">242</field>
+	</row>
+
+	<row>
+		<field name="room">NG11</field>
+		<field name="floor">0</field>
+		<field name="xcoord">146</field>
+		<field name="ycoord">137</field>
+	</row>
+
+	<row>
+		<field name="room">NG13</field>
+		<field name="floor">0</field>
+		<field name="xcoord">162</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG15</field>
+		<field name="floor">0</field>
+		<field name="xcoord">175</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG17</field>
+		<field name="floor">0</field>
+		<field name="xcoord">184</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG19</field>
+		<field name="floor">0</field>
+		<field name="xcoord">192</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG20</field>
+		<field name="floor">0</field>
+		<field name="xcoord">183</field>
+		<field name="ycoord">122</field>
+	</row>
+
+	<row>
+		<field name="room">NG21</field>
+		<field name="floor">0</field>
+		<field name="xcoord">200</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG23</field>
+		<field name="floor">0</field>
+		<field name="xcoord">208</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG25</field>
+		<field name="floor">0</field>
+		<field name="xcoord">118</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG27</field>
+		<field name="floor">0</field>
+		<field name="xcoord">227</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG29</field>
+		<field name="floor">0</field>
+		<field name="xcoord">240</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">NG31</field>
+		<field name="floor">0</field>
+		<field name="xcoord">215</field>
+		<field name="ycoord">106</field>
+	</row>
+
+	<row>
+		<field name="room">NG32</field>
+		<field name="floor">0</field>
+		<field name="xcoord">177</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">NG35</field>
+		<field name="floor">0</field>
+		<field name="xcoord">201</field>
+		<field name="ycoord">86</field>
+	</row>
+
+	<row>
+		<field name="room">NG36</field>
+		<field name="floor">0</field>
+		<field name="xcoord">177</field>
+		<field name="ycoord">57</field>
+	</row>
+
+	<row>
+		<field name="room">NG37</field>
+		<field name="floor">0</field>
+		<field name="xcoord">201</field>
+		<field name="ycoord">76</field>
+	</row>
+
+	<row>
+		<field name="room">NG40</field>
+		<field name="floor">0</field>
+		<field name="xcoord">237</field>
+		<field name="ycoord">38</field>
+	</row>
+
+	<row>
+		<field name="room">NG41</field>
+		<field name="floor">0</field>
+		<field name="xcoord">213</field>
+		<field name="ycoord">81</field>
+	</row>
+
+	<row>
+		<field name="room">NG43</field>
+		<field name="floor">0</field>
+		<field name="xcoord">226</field>
+		<field name="ycoord">81</field>
+	</row>
+
+	<row>
+		<field name="room">NG45</field>
+		<field name="floor">0</field>
+		<field name="xcoord">237</field>
+		<field name="ycoord">102</field>
+	</row>
+
+	<row>
+		<field name="room">NG47</field>
+		<field name="floor">0</field>
+		<field name="xcoord">259</field>
+		<field name="ycoord">93</field>
+	</row>
+
+	<row>
+		<field name="room">NG50</field>
+		<field name="floor">0</field>
+		<field name="xcoord">293</field>
+		<field name="ycoord">49</field>
+	</row>
+
+	<row>
+		<field name="room">NG51</field>
+		<field name="floor">0</field>
+		<field name="xcoord">301</field>
+		<field name="ycoord">83</field>
+	</row>
+
+	<row>
+		<field name="room">NG60</field>
+		<field name="floor">0</field>
+		<field name="xcoord">299</field>
+		<field name="ycoord">102</field>
+	</row>
+
+	<row>
+		<field name="room">NG61</field>
+		<field name="floor">0</field>
+		<field name="xcoord">278</field>
+		<field name="ycoord">83</field>
+	</row>
+
+	<row>
+		<field name="room">NG63</field>
+		<field name="floor">0</field>
+		<field name="xcoord">278</field>
+		<field name="ycoord">102</field>
+	</row>
+
+	<row>
+		<field name="room">NG65</field>
+		<field name="floor">0</field>
+		<field name="xcoord">282</field>
+		<field name="ycoord">116</field>
+	</row>
+
+	<row>
+		<field name="room">NG67</field>
+		<field name="floor">0</field>
+		<field name="xcoord">282</field>
+		<field name="ycoord">125</field>
+	</row>
+
+	<row>
+		<field name="room">Ryan Auditorium</field>
+		<field name="floor">1</field>
+		<field name="xcoord">248</field>
+		<field name="ycoord">229</field>
+	</row>
+
+	<row>
+		<field name="room">Tech Express</field>
+		<field name="floor">1</field>
+		<field name="xcoord">202</field>
+		<field name="ycoord">157</field>
+	</row>
+
+	<row>
+		<field name="room">HG14</field>
+		<field name="floor">0</field>
+		<field name="xcoord">370</field>
+		<field name="ycoord">187</field>
+	</row>
+
+	<row>
+		<field name="room">LG68</field>
+		<field name="floor">0</field>
+		<field name="xcoord">219</field>
+		<field name="ycoord">315</field>
+	</row>
+
+	<row>
+		<field name="room">F219</field>
+		<field name="floor">2</field>
+		<field name="xcoord">334</field>
+		<field name="ycoord">354</field>
+	</row>
+
+	<row>
+		<field name="room">F216</field>
+		<field name="floor">2</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">329</field>
+	</row>
+
+	<row>
+		<field name="room">F214</field>
+		<field name="floor">2</field>
+		<field name="xcoord">359</field>
+		<field name="ycoord">319</field>
+	</row>
+
+	<row>
+		<field name="room">L254</field>
+		<field name="floor">2</field>
+		<field name="xcoord">289</field>
+		<field name="ycoord">297</field>
+	</row>
+
+	<row>
+		<field name="room">L364</field>
+		<field name="floor">3</field>
+		<field name="xcoord">228</field>
+		<field name="ycoord">290</field>
+	</row>
+
+	<row>
+		<field name="room">L150</field>
+		<field name="floor">1</field>
+		<field name="xcoord">340</field>
+		<field name="ycoord">320</field>
+	</row>
+
+	<row>
+		<field name="room">M430</field>
+		<field name="floor">4</field>
+		<field name="xcoord">179</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">E404</field>
+		<field name="floor">4</field>
+		<field name="xcoord">42</field>
+		<field name="ycoord">59</field>
+	</row>
+
+	<row>
+		<field name="room">E402</field>
+		<field name="floor">4</field>
+		<field name="xcoord">127</field>
+		<field name="ycoord">74</field>
+	</row>
+
+	<row>
+		<field name="room">E403</field>
+		<field name="floor">4</field>
+		<field name="xcoord">136</field>
+		<field name="ycoord">71</field>
+	</row>
+
+	<row>
+		<field name="room">E401</field>
+		<field name="floor">4</field>
+		<field name="xcoord">168</field>
+		<field name="ycoord">78</field>
+	</row>
+
+	<row>
+		<field name="room">M551</field>
+		<field name="floor">4</field>
+		<field name="xcoord">246</field>
+		<field name="ycoord">134</field>
+	</row>
+
+	<row>
+		<field name="room">K400</field>
+		<field name="floor">4</field>
+		<field name="xcoord">390</field>
+		<field name="ycoord">66</field>
+	</row>
+
+	<row>
+		<field name="room">K402</field>
+		<field name="floor">4</field>
+		<field name="xcoord">372</field>
+		<field name="ycoord">73</field>
+	</row>
+
+	<row>
+		<field name="room">L550</field>
+		<field name="floor">4</field>
+		<field name="xcoord">425</field>
+		<field name="ycoord">335</field>
+	</row>
+
+	<row>
+		<field name="room">L552</field>
+		<field name="floor">4</field>
+		<field name="xcoord">428</field>
+		<field name="ycoord">313</field>
+	</row>
+
+	<row>
+		<field name="room">L545</field>
+		<field name="floor">4</field>
+		<field name="xcoord">422</field>
+		<field name="ycoord">298</field>
+	</row>
+
+	<row>
+		<field name="room">M428</field>
+		<field name="floor">4</field>
+		<field name="xcoord">129</field>
+		<field name="ycoord">179</field>
+	</row>
+
+	<row>
+		<field name="room">M422</field>
+		<field name="floor">4</field>
+		<field name="xcoord">150</field>
+		<field name="ycoord">190</field>
+	</row>
+
+	<row>
+		<field name="room">M424</field>
+		<field name="floor">4</field>
+		<field name="xcoord">151</field>
+		<field name="ycoord">205</field>
+	</row>
+
+	<row>
+		<field name="room">M416</field>
+		<field name="floor">4</field>
+		<field name="xcoord">136</field>
+		<field name="ycoord">203</field>
+	</row>
+
+	<row>
+		<field name="room">M432</field>
+		<field name="floor">4</field>
+		<field name="xcoord">170</field>
+		<field name="ycoord">192</field>
+	</row>
+
+	<row>
+		<field name="room">M434</field>
+		<field name="floor">4</field>
+		<field name="xcoord">181</field>
+		<field name="ycoord">191</field>
+	</row>
+
+	<row>
+		<field name="room">M438</field>
+		<field name="floor">4</field>
+		<field name="xcoord">194</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">M440</field>
+		<field name="floor">4</field>
+		<field name="xcoord">206</field>
+		<field name="ycoord">189</field>
+	</row>
+
+	<row>
+		<field name="room">M442</field>
+		<field name="floor">4</field>
+		<field name="xcoord">219</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M444</field>
+		<field name="floor">4</field>
+		<field name="xcoord">228</field>
+		<field name="ycoord">183</field>
+	</row>
+
+	<row>
+		<field name="room">M446</field>
+		<field name="floor">4</field>
+		<field name="xcoord">236</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M448</field>
+		<field name="floor">4</field>
+		<field name="xcoord">246</field>
+		<field name="ycoord">183</field>
+	</row>
+
+	<row>
+		<field name="room">M450</field>
+		<field name="floor">4</field>
+		<field name="xcoord">254</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M452</field>
+		<field name="floor">4</field>
+		<field name="xcoord">264</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">M454</field>
+		<field name="floor">4</field>
+		<field name="xcoord">269</field>
+		<field name="ycoord">186</field>
+	</row>
+
+	<row>
+		<field name="room">M456</field>
+		<field name="floor">4</field>
+		<field name="xcoord">282</field>
+		<field name="ycoord">186</field>
+	</row>
+
+	<row>
+		<field name="room">M460</field>
+		<field name="floor">4</field>
+		<field name="xcoord">299</field>
+		<field name="ycoord">186</field>
+	</row>
+
+	<row>
+		<field name="room">M462</field>
+		<field name="floor">4</field>
+		<field name="xcoord">307</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M464</field>
+		<field name="floor">4</field>
+		<field name="xcoord">318</field>
+		<field name="ycoord">183</field>
+	</row>
+
+	<row>
+		<field name="room">M466</field>
+		<field name="floor">4</field>
+		<field name="xcoord">327</field>
+		<field name="ycoord">186</field>
+	</row>
+
+	<row>
+		<field name="room">M468</field>
+		<field name="floor">4</field>
+		<field name="xcoord">334</field>
+		<field name="ycoord">184</field>
+	</row>
+
+	<row>
+		<field name="room">M470</field>
+		<field name="floor">4</field>
+		<field name="xcoord">343</field>
+		<field name="ycoord">186</field>
+	</row>
+
+	<row>
+		<field name="room">M472</field>
+		<field name="floor">4</field>
+		<field name="xcoord">355</field>
+		<field name="ycoord">185</field>
+	</row>
+
+	<row>
+		<field name="room">L482,Cohen Commons</field>
+		<field name="floor">4</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">323</field>
+	</row>
+
+	<row>
+		<field name="room">L480</field>
+		<field name="floor">4</field>
+		<field name="xcoord">158</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">L485</field>
+		<field name="floor">4</field>
+		<field name="xcoord">162</field>
+		<field name="ycoord">299</field>
+	</row>
+
+	<row>
+		<field name="room">L483</field>
+		<field name="floor">4</field>
+		<field name="xcoord">151</field>
+		<field name="ycoord">305</field>
+	</row>
+
+	<row>
+		<field name="room">L479</field>
+		<field name="floor">4</field>
+		<field name="xcoord">180</field>
+		<field name="ycoord">310</field>
+	</row>
+
+	<row>
+		<field name="room">L477</field>
+		<field name="floor">4</field>
+		<field name="xcoord">190</field>
+		<field name="ycoord">308</field>
+	</row>
+
+	<row>
+		<field name="room">L475</field>
+		<field name="floor">4</field>
+		<field name="xcoord">203</field>
+		<field name="ycoord">309</field>
+	</row>
+
+	<row>
+		<field name="room">L473</field>
+		<field name="floor">4</field>
+		<field name="xcoord">212</field>
+		<field name="ycoord">309</field>
+	</row>
+
+	<row>
+		<field name="room">L471</field>
+		<field name="floor">4</field>
+		<field name="xcoord">222</field>
+		<field name="ycoord">307</field>
+	</row>
+
+	<row>
+		<field name="room">L469</field>
+		<field name="floor">4</field>
+		<field name="xcoord">232</field>
+		<field name="ycoord">308</field>
+	</row>
+
+	<row>
+		<field name="room">L467</field>
+		<field name="floor">4</field>
+		<field name="xcoord">242</field>
+		<field name="ycoord">307</field>
+	</row>
+
+	<row>
+		<field name="room">L465</field>
+		<field name="floor">4</field>
+		<field name="xcoord">253</field>
+		<field name="ycoord">307</field>
+	</row>
+
+	<row>
+		<field name="room">L463</field>
+		<field name="floor">4</field>
+		<field name="xcoord">266</field>
+		<field name="ycoord">308</field>
+	</row>
+
+	<row>
+		<field name="room">L461</field>
+		<field name="floor">4</field>
+		<field name="xcoord">277</field>
+		<field name="ycoord">309</field>
+	</row>
+
+	<row>
+		<field name="room">L459</field>
+		<field name="floor">4</field>
+		<field name="xcoord">287</field>
+		<field name="ycoord">305</field>
+	</row>
+
+	<row>
+		<field name="room">L457</field>
+		<field name="floor">4</field>
+		<field name="xcoord">295</field>
+		<field name="ycoord">308</field>
+	</row>
+
+	<row>
+		<field name="room">L455</field>
+		<field name="floor">4</field>
+		<field name="xcoord">303</field>
+		<field name="ycoord">307</field>
+	</row>
+
+	<row>
+		<field name="room">L451</field>
+		<field name="floor">4</field>
+		<field name="xcoord">317</field>
+		<field name="ycoord">309</field>
+	</row>
+
+	<row>
+		<field name="room">L447</field>
+		<field name="floor">4</field>
+		<field name="xcoord">344</field>
+		<field name="ycoord">298</field>
+	</row>
+
+	<row>
+		<field name="room">L445</field>
+		<field name="floor">4</field>
+		<field name="xcoord">365</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">L443</field>
+		<field name="floor">4</field>
+		<field name="xcoord">367</field>
+		<field name="ycoord">318</field>
+	</row>
+
+	<row>
+		<field name="room">L441</field>
+		<field name="floor">4</field>
+		<field name="xcoord">370</field>
+		<field name="ycoord">329</field>
+	</row>
+
+	<row>
+		<field name="room">L440</field>
+		<field name="floor">4</field>
+		<field name="xcoord">371</field>
+		<field name="ycoord">342</field>
+	</row>
+
+	<row>
+		<field name="room">L444</field>
+		<field name="floor">4</field>
+		<field name="xcoord">341</field>
+		<field name="ycoord">341</field>
+	</row>
+
+	<row>
+		<field name="room">L580</field>
+		<field name="floor">4</field>
+		<field name="xcoord">75</field>
+		<field name="ycoord">339</field>
+	</row>
+
+	<row>
+		<field name="room">L585</field>
+		<field name="floor">4</field>
+		<field name="xcoord">76</field>
+		<field name="ycoord">296</field>
+	</row>
+
+	<row>
+		<field name="room">L582</field>
+		<field name="floor">4</field>
+		<field name="xcoord">71</field>
+		<field name="ycoord">319</field>
+	</row>
+
+	<row>
+		<field name="room">L476</field>
+		<field name="floor">4</field>
+		<field name="xcoord">191</field>
+		<field name="ycoord">336</field>
+	</row>
+
+	<row>
+		<field name="room">L470</field>
+		<field name="floor">4</field>
+		<field name="xcoord">216</field>
+		<field name="ycoord">334</field>
+	</row>
+
+	<row>
+		<field name="room">L466</field>
+		<field name="floor">4</field>
+		<field name="xcoord">232</field>
+		<field name="ycoord">335</field>
+	</row>
+
+	<row>
+		<field name="room">L460</field>
+		<field name="floor">4</field>
+		<field name="xcoord">252</field>
+		<field name="ycoord">333</field>
+	</row>
+
+	<row>
+		<field name="room">L458</field>
+		<field name="floor">4</field>
+		<field name="xcoord">281</field>
+		<field name="ycoord">333</field>
+	</row>
+
+	<row>
+		<field name="room">L454</field>
+		<field name="floor">4</field>
+		<field name="xcoord">298</field>
+		<field name="ycoord">333</field>
+	</row>
+
+	<row>
+		<field name="room">L452</field>
+		<field name="floor">4</field>
+		<field name="xcoord">310</field>
+		<field name="ycoord">335</field>
+	</row>
+
+	<row>
+		<field name="room">M426</field>
+		<field name="floor">4</field>
+		<field name="xcoord">150</field>
+		<field name="ycoord">181</field>
+	</row>
+
+	<row>
+		<field name="room">L260</field>
+		<field name="floor">2</field>
+		<field name="xcoord">263</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">M291</field>
+		<field name="floor">2</field>
+		<field name="xcoord">342</field>
+		<field name="ycoord">201</field>
+	</row>
+
+	<row>
+		<field name="room">A133</field>
+		<field name="floor">1</field>
+		<field name="xcoord">168</field>
+		<field name="ycoord">404</field>
+	</row>
+
+	<row>
+		<field name="room">LG55</field>
+		<field name="floor">0</field>
+		<field name="xcoord">285</field>
+		<field name="ycoord">294</field>
+	</row>
+
+	<row>
+		<field name="room">NG24</field>
+		<field name="floor">0</field>
+		<field name="xcoord">222</field>
+		<field name="ycoord">124</field>
+	</row>
+
+	<row>
+		<field name="room">M326</field>
+		<field name="floor">3</field>
+		<field name="xcoord">138</field>
+		<field name="ycoord">145</field>
+	</row>
+
+	<row>
+		<field name="room">L350</field>
+		<field name="floor">3</field>
+		<field name="xcoord">329</field>
+		<field name="ycoord">302</field>
+	</row>
+
+	<row>
+		<field name="room">DG68</field>
+		<field name="floor">0</field>
+		<field name="xcoord">27</field>
+		<field name="ycoord">159</field>
+	</row>
+
+	<row>
+		<field name="room">DG14</field>
+		<field name="floor">0</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">166</field>
+	</row>
+
+	<row>
+		<field name="room">DG47</field>
+		<field name="floor">0</field>
+		<field name="xcoord">32</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">DG49</field>
+		<field name="floor">0</field>
+		<field name="xcoord">32</field>
+		<field name="ycoord">105</field>
+	</row>
+
+	<row>
+		<field name="room">DG43</field>
+		<field name="floor">0</field>
+		<field name="xcoord">60</field>
+		<field name="ycoord">110</field>
+	</row>
+
+	<row>
+		<field name="room">DG45</field>
+		<field name="floor">0</field>
+		<field name="xcoord">60</field>
+		<field name="ycoord">110</field>
+	</row>
+
+	<row>
+		<field name="room">D112</field>
+		<field name="floor">1</field>
+		<field name="xcoord">134</field>
+		<field name="ycoord">133</field>
+	</row>
+
+	<row>
+		<field name="room">D110</field>
+		<field name="floor">1</field>
+		<field name="xcoord">103</field>
+		<field name="ycoord">130</field>
+	</row>
+
+	<row>
+		<field name="room">D130</field>
+		<field name="floor">1</field>
+		<field name="xcoord">74</field>
+		<field name="ycoord">129</field>
+	</row>
+
+	<row>
+		<field name="room">D132</field>
+		<field name="floor">1</field>
+		<field name="xcoord">65</field>
+		<field name="ycoord">116</field>
+	</row>
+
+	<row>
+		<field name="room">D134</field>
+		<field name="floor">1</field>
+		<field name="xcoord">57</field>
+		<field name="ycoord">116</field>
+	</row>
+
+	<row>
+		<field name="room">D136</field>
+		<field name="floor">1</field>
+		<field name="xcoord">34</field>
+		<field name="ycoord">153</field>
+	</row>
+
+	<row>
+		<field name="room">D157</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">133</field>
+	</row>
+
+	<row>
+		<field name="room">D155</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">124</field>
+	</row>
+
+	<row>
+		<field name="room">D153</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">114</field>
+	</row>
+
+	<row>
+		<field name="room">D151</field>
+		<field name="floor">1</field>
+		<field name="xcoord">36</field>
+		<field name="ycoord">104</field>
+	</row>
+
+	<row>
+		<field name="room">D145</field>
+		<field name="floor">1</field>
+		<field name="xcoord">55</field>
+		<field name="ycoord">90</field>
+	</row>
+
+	<row>
+		<field name="room">D119</field>
+		<field name="floor">1</field>
+		<field name="xcoord">80</field>
+		<field name="ycoord">101</field>
+	</row>
+
+	<row>
+		<field name="room">D115</field>
+		<field name="floor">1</field>
+		<field name="xcoord">100</field>
+		<field name="ycoord">90</field>
+	</row>
+
+	<row>
+		<field name="room">L250</field>
+		<field name="floor">2</field>
+		<field name="xcoord">343</field>
+		<field name="ycoord">310</field>
+	</row>
+
+	<row>
+		<field name="room">A128</field>
+		<field name="floor">1</field>
+		<field name="xcoord">158</field>
+		<field name="ycoord">392</field>
+	</row>
+
+	<row>
+		<field name="room">A135</field>
+		<field name="floor">1</field>
+		<field name="xcoord">175</field>
+		<field name="ycoord">410</field>
+	</row>
+
+	<row>
+		<field name="room">A130</field>
+		<field name="floor">1</field>
+		<field name="xcoord">155</field>
+		<field name="ycoord">432</field>
+	</row>
+
+	<row>
+		<field name="room">A132</field>
+		<field name="floor">1</field>
+		<field name="xcoord">175</field>
+		<field name="ycoord">432</field>
+	</row>
+
+	<row>
+		<field name="room">A150</field>
+		<field name="floor">1</field>
+		<field name="xcoord">100</field>
+		<field name="ycoord">431</field>
+	</row>
+
+	<row>
+		<field name="room">A154</field>
+		<field name="floor">1</field>
+		<field name="xcoord">97</field>
+		<field name="ycoord">446</field>
+	</row>
+
+	<row>
+		<field name="room">A136</field>
+		<field name="floor">1</field>
+		<field name="xcoord">153</field>
+		<field name="ycoord">444</field>
+	</row>
+
+	<row>
+		<field name="room">A138</field>
+		<field name="floor">1</field>
+		<field name="xcoord">146</field>
+		<field name="ycoord">444</field>
+	</row>
+
+	<row>
+		<field name="room">A144</field>
+		<field name="floor">1</field>
+		<field name="xcoord">109</field>
+		<field name="ycoord">444</field>
+	</row>
+
+	<row>
+		<field name="room">A146</field>
+		<field name="floor">1</field>
+		<field name="xcoord">118</field>
+		<field name="ycoord">444</field>
+	</row>
+
+	<row>
+		<field name="room">B135</field>
+		<field name="floor">1</field>
+		<field name="xcoord">69</field>
+		<field name="ycoord">283</field>
+	</row>
+
+	<row>
+		<field name="room">C145</field>
+		<field name="floor">1</field>
+		<field name="xcoord">54</field>
+		<field name="ycoord">156</field>
+	</row>
+
+	<row>
+		<field name="room">C115</field>
+		<field name="floor">1</field>
+		<field name="xcoord">126</field>
+		<field name="ycoord">162</field>
+	</row>
+
+	<row>
+		<field name="room">A139</field>
+		<field name="floor">1</field>
+		<field name="xcoord">163</field>
+		<field name="ycoord">444</field>
+	</row>
+
+	<row>
+		<field name="room">E132</field>
+		<field name="floor">1</field>
+		<field name="xcoord">190</field>
+		<field name="ycoord">30</field>
+	</row>
+
+	<row>
+		<field name="room">E134</field>
+		<field name="floor">1</field>
+		<field name="xcoord">192</field>
+		<field name="ycoord">40</field>
+	</row>
+
+	<row>
+		<field name="room">D121</field>
+		<field name="floor">1</field>
+		<field name="xcoord">82</field>
+		<field name="ycoord">85</field>
+	</row>
+
+	<row>
+		<field name="room">D114</field>
+		<field name="floor">1</field>
+		<field name="xcoord">134</field>
+		<field name="ycoord">140</field>
+	</row>
+
+	<row>
+		<field name="room">D147</field>
+		<field name="floor">1</field>
+		<field name="xcoord">79</field>
+		<field name="ycoord">107</field>
+	</row>
+
+	<row>
+		<field name="room">D149</field>
+		<field name="floor">1</field>
+		<field name="xcoord">79</field>
+		<field name="ycoord">100</field>
+	</row>
+
+	<row>
+		<field name="room">L192</field>
+		<field name="floor">1</field>
+		<field name="xcoord">136</field>
+		<field name="ycoord">252</field>
+	</row>
+
+	<row>
+		<field name="room">A233</field>
+		<field name="floor">2</field>
+		<field name="xcoord">160</field>
+		<field name="ycoord">413</field>
+	</row>
+
+	<row>
+		<field name="room">A242</field>
+		<field name="floor">2</field>
+		<field name="xcoord">119</field>
+		<field name="ycoord">423</field>
+	</row>
+
+	<row>
+		<field name="room">A246</field>
+		<field name="floor">2</field>
+		<field name="xcoord">107</field>
+		<field name="ycoord">423</field>
+	</row>
+
+	<row>
+		<field name="room">A250</field>
+		<field name="floor">2</field>
+		<field name="xcoord">100</field>
+		<field name="ycoord">423</field>
+	</row>
+
+	<row>
+		<field name="room">B241</field>
+		<field name="floor">2</field>
+		<field name="xcoord">43</field>
+		<field name="ycoord">285</field>
+	</row>
+
+	<row>
+		<field name="room">B244</field>
+		<field name="floor">2</field>
+		<field name="xcoord">50</field>
+		<field name="ycoord">298</field>
+	</row>
+
+	<row>
+		<field name="room">B245</field>
+		<field name="floor">2</field>
+		<field name="xcoord">50</field>
+		<field name="ycoord">293</field>
+	</row>
+
+	<row>
+		<field name="room">B220</field>
+		<field name="floor">2</field>
+		<field name="xcoord">120</field>
+		<field name="ycoord">302</field>
+	</row>
+
+	<row>
+		<field name="room">B228</field>
+		<field name="floor">2</field>
+		<field name="xcoord">90</field>
+		<field name="ycoord">302</field>
+	</row>
+
+	<row>
+		<field name="room">B212</field>
+		<field name="floor">2</field>
+		<field name="xcoord">135</field>
+		<field name="ycoord">309</field>
+	</row>
+
+	<row>
+		<field name="room">B213</field>
+		<field name="floor">2</field>
+		<field name="xcoord">130</field>
+		<field name="ycoord">288</field>
+	</row>
+
+	<row>
+		<field name="room">B219</field>
+		<field name="floor">2</field>
+		<field name="xcoord">121</field>
+		<field name="ycoord">285</field>
+	</row>
+
+	<row>
+		<field name="room">B231</field>
+		<field name="floor">2</field>
+		<field name="xcoord">83</field>
+		<field name="ycoord">285</field>
+	</row>
+
+	<row>
+		<field name="room">B233</field>
+		<field name="floor">2</field>
+		<field name="xcoord">83</field>
+		<field name="ycoord">276</field>
+	</row>
+
+	<row>
+		<field name="room">C244</field>
+		<field name="floor">2</field>
+		<field name="xcoord">58</field>
+		<field name="ycoord">191</field>
+	</row>
+
+	<row>
+		<field name="room">C245</field>
+		<field name="floor">2</field>
+		<field name="xcoord">43</field>
+		<field name="ycoord">191</field>
+	</row>
+
+	<row>
+		<field name="room">C218</field>
+		<field name="floor">2</field>
+		<field name="xcoord">128</field>
+		<field name="ycoord">188</field>
+	</row>
+
+	<row>
+		<field name="room">C222</field>
+		<field name="floor">2</field>
+		<field name="xcoord">102</field>
+		<field name="ycoord">178</field>
+	</row>
+
+	<row>
+		<field name="room">E211</field>
+		<field name="floor">2</field>
+		<field name="xcoord">135</field>
+		<field name="ycoord">123</field>
+	</row>
+
+	<row>
+		<field name="room">E225</field>
+		<field name="floor">2</field>
+		<field name="xcoord">135</field>
+		<field name="ycoord">78</field>
+	</row>
+
+	<row>
+		<field name="room">E232</field>
+		<field name="floor">2</field>
+		<field name="xcoord">192</field>
+		<field name="ycoord">41</field>
+	</row>
+
+	<row>
+		<field name="room">L286</field>
+		<field name="floor">2</field>
+		<field name="xcoord">135</field>
+		<field name="ycoord">264</field>
+	</row>
+
+	<row>
+		<field name="room">L288</field>
+		<field name="floor">2</field>
+		<field name="xcoord">135</field>
+		<field name="ycoord">256</field>
+	</row>
+
+	<row>
+		<field name="room">M230</field>
+		<field name="floor">2</field>
+		<field name="xcoord">158</field>
+		<field name="ycoord">166</field>
+	</row>
+
+	<row>
+		<field name="room">M232</field>
+		<field name="floor">2</field>
+		<field name="xcoord">167</field>
+		<field name="ycoord">166</field>
+	</row>
+
+	<row>
+		<field name="room">AG31</field>
+		<field name="floor">0</field>
+		<field name="xcoord">165</field>
+		<field name="ycoord">404</field>
+	</row>
+
+	<row>
+		<field name="room">AG38</field>
+		<field name="floor">0</field>
+		<field name="xcoord">149</field>
+		<field name="ycoord">440</field>
+	</row>
+
+	<row>
+		<field name="room">AG60</field>
+		<field name="floor">0</field>
+		<field name="xcoord">50</field>
+		<field name="ycoord">443</field>
+	</row>
+
+	<row>
+		<field name="room">AG62</field>
+		<field name="floor">0</field>
+		<field name="xcoord">55</field>
+		<field name="ycoord">434</field>
+	</row>
+
+	<row>
+		<field name="room">AG64</field>
+		<field name="floor">0</field>
+		<field name="xcoord">46</field>
+		<field name="ycoord">434</field>
+	</row>
+
+	<row>
+		<field name="room">AG68</field>
+		<field name="floor">0</field>
+		<field name="xcoord">31</field>
+		<field name="ycoord">425</field>
+	</row>
+
+	<row>
+		<field name="room">BG13</field>
+		<field name="floor">0</field>
+		<field name="xcoord">132</field>
+		<field name="ycoord">275</field>
+	</row>
+
+	<row>
+		<field name="room">BG14</field>
+		<field name="floor">0</field>
+		<field name="xcoord">133</field>
+		<field name="ycoord">367</field>
+	</row>
+
+	<row>
+		<field name="room">BG15</field>
+		<field name="floor">0</field>
+		<field name="xcoord">122</field>
+		<field name="ycoord">275</field>
+	</row>
+
+	<row>
+		<field name="room">BG27</field>
+		<field name="floor">0</field>
+		<field name="xcoord">84</field>
+		<field name="ycoord">297</field>
+	</row>
+
+	<row>
+		<field name="room">BG39</field>
+		<field name="floor">0</field>
+		<field name="xcoord">47</field>
+		<field name="ycoord">305</field>
+	</row>
+
+	<row>
+		<field name="room">BG43</field>
+		<field name="floor">0</field>
+		<field name="xcoord">32</field>
+		<field name="ycoord">292</field>
+	</row>
+
+	<row>
+		<field name="room">CG24</field>
+		<field name="floor">0</field>
+		<field name="xcoord">86</field>
+		<field name="ycoord">210</field>
+	</row>
+
+	<row>
+		<field name="room">EG17</field>
+		<field name="floor">0</field>
+		<field name="xcoord">124</field>
+		<field name="ycoord">136</field>
+	</row>
+
+	<row>
+		<field name="room">EG27</field>
+		<field name="floor">0</field>
+		<field name="xcoord">124</field>
+		<field name="ycoord">112</field>
+	</row>
+
+	<row>
+		<field name="room">EG39</field>
+		<field name="floor">0</field>
+		<field name="xcoord">157</field>
+		<field name="ycoord">89</field>
+	</row>
+
+	<row>
+		<field name="room">EG51</field>
+		<field name="floor">0</field>
+		<field name="xcoord">104</field>
+		<field name="ycoord">96</field>
+	</row>
+
+	<row>
+		<field name="room">LG87</field>
+		<field name="floor">0</field>
+		<field name="xcoord">159</field>
+		<field name="ycoord">278</field>
+	</row>
+
+	<row>
+		<field name="room">LG94</field>
+		<field name="floor">0</field>
+		<field name="xcoord">126</field>
+		<field name="ycoord">255</field>
+	</row>
+
+	<row>
+		<field name="room">LG96</field>
+		<field name="floor">0</field>
+		<field name="xcoord">126</field>
+		<field name="ycoord">263</field>
+	</row>
+
+	<row>
+		<field name="room">NG33</field>
+		<field name="floor">0</field>
+		<field name="xcoord">207</field>
+		<field name="ycoord">100</field>
+	</row>
+
+	<row>
+		<field name="room">E312</field>
+		<field name="floor">3</field>
+		<field name="xcoord">161</field>
+		<field name="ycoord">120</field>
+	</row>
+
+	<row>
+		<field name="room">E318</field>
+		<field name="floor">3</field>
+		<field name="xcoord">161</field>
+		<field name="ycoord">95</field>
+	</row>
+
+	<row>
+		<field name="room">E321</field>
+		<field name="floor">3</field>
+		<field name="xcoord">114</field>
+		<field name="ycoord">95</field>
+	</row>
+
+	<row>
+		<field name="room">E335</field>
+		<field name="floor">3</field>
+		<field name="xcoord">170</field>
+		<field name="ycoord">27</field>
+	</row>
+
+	<row>
+		<field name="room">E352</field>
+		<field name="floor">3</field>
+		<field name="xcoord">124</field>
+		<field name="ycoord">27</field>
+	</row>
+
+	<row>
+		<field name="room">E358</field>
+		<field name="floor">3</field>
+		<field name="xcoord">105</field>
+		<field name="ycoord">33</field>
+	</row>
+
+	<row>
+		<field name="room">L349</field>
+		<field name="floor">3</field>
+		<field name="xcoord">324</field>
+		<field name="ycoord">276</field>
+	</row>
+
+	<row>
+		<field name="room">L351</field>
+		<field name="floor">3</field>
+		<field name="xcoord">308</field>
+		<field name="ycoord">276</field>
+	</row>
+
+	<row>
+		<field name="room">L355</field>
+		<field name="floor">3</field>
+		<field name="xcoord">294</field>
+		<field name="ycoord">276</field>
+	</row>
+
+	<row>
+		<field name="room">L357</field>
+		<field name="floor">3</field>
+		<field name="xcoord">284</field>
+		<field name="ycoord">276</field>
+	</row>
+
+	<row>
+		<field name="room">L359</field>
+		<field name="floor">3</field>
+		<field name="xcoord">272</field>
+		<field name="ycoord">276</field>
+	</row>
+
+	<row>
+		<field name="room">L311</field>
+		<field name="floor">3</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">231</field>
+	</row>
+
+	<row>
+		<field name="room">L313</field>
+		<field name="floor">3</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">244</field>
+	</row>
+
+	<row>
+		<field name="room">L315</field>
+		<field name="floor">3</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">257</field>
+	</row>
+
+	<row>
+		<field name="room">L320</field>
+		<field name="floor">3</field>
+		<field name="xcoord">376</field>
+		<field name="ycoord">267</field>
+	</row>
+
+	<row>
+		<field name="room">L326</field>
+		<field name="floor">3</field>
+		<field name="xcoord">373</field>
+		<field name="ycoord">278</field>
+	</row>
+
+	<row>
+		<field name="room">L330</field>
+		<field name="floor">3</field>
+		<field name="xcoord">378</field>
+		<field name="ycoord">274</field>
+	</row>
+
+	<row>
+		<field name="room">L352</field>
+		<field name="floor">3</field>
+		<field name="xcoord">304</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">L354</field>
+		<field name="floor">3</field>
+		<field name="xcoord">294</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">L356</field>
+		<field name="floor">3</field>
+		<field name="xcoord">284</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">L360</field>
+		<field name="floor">3</field>
+		<field name="xcoord">267</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">L358</field>
+		<field name="floor">3</field>
+		<field name="xcoord">276</field>
+		<field name="ycoord">304</field>
+	</row>
+
+	<row>
+		<field name="room">M357</field>
+		<field name="floor">3</field>
+		<field name="xcoord">287</field>
+		<field name="ycoord">188</field>
+	</row>
+
+	<row>
+		<field name="room">M358</field>
+		<field name="floor">3</field>
+		<field name="xcoord">291</field>
+		<field name="ycoord">166</field>
+	</row>
+
+	<row>
+		<field name="room">M368</field>
+		<field name="floor">3</field>
+		<field name="xcoord">313</field>
+		<field name="ycoord">154</field>
+	</row>
+
+	<row>
+		<field name="room">M389</field>
+		<field name="floor">3</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">199</field>
+	</row>
+
+	<row>
+		<field name="room">M391</field>
+		<field name="floor">3</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">208</field>
+	</row>
+
+	<row>
+		<field name="room">M393</field>
+		<field name="floor">3</field>
+		<field name="xcoord">337</field>
+		<field name="ycoord">216</field>
+	</row>
+
+	<row>
+		<field name="room">M336</field>
+		<field name="floor">3</field>
+		<field name="xcoord">165</field>
+		<field name="ycoord">150</field>
+	</row>
+
+	<row>
+		<field name="room">M340</field>
+		<field name="floor">3</field>
+		<field name="xcoord">165</field>
+		<field name="ycoord">158</field>
+	</row>
+
+	<row>
+		<field name="room">M354</field>
+		<field name="floor">3</field>
+		<field name="xcoord">265</field>
+		<field name="ycoord">168</field>
+	</row>
+
+	<row>
+		<field name="room">M441</field>
+		<field name="floor">4</field>
+		<field name="xcoord">207</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M443</field>
+		<field name="floor">4</field>
+		<field name="xcoord">219</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M445</field>
+		<field name="floor">4</field>
+		<field name="xcoord">234</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M447</field>
+		<field name="floor">4</field>
+		<field name="xcoord">243</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M449</field>
+		<field name="floor">4</field>
+		<field name="xcoord">252</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M451</field>
+		<field name="floor">4</field>
+		<field name="xcoord">260</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M453</field>
+		<field name="floor">4</field>
+		<field name="xcoord">269</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M455</field>
+		<field name="floor">4</field>
+		<field name="xcoord">278</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M457</field>
+		<field name="floor">4</field>
+		<field name="xcoord">287</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M459</field>
+		<field name="floor">4</field>
+		<field name="xcoord">296</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M461</field>
+		<field name="floor">4</field>
+		<field name="xcoord">306</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M458</field>
+		<field name="floor">4</field>
+		<field name="xcoord">287</field>
+		<field name="ycoord">176</field>
+	</row>
+
+	<row>
+		<field name="room">M471</field>
+		<field name="floor">4</field>
+		<field name="xcoord">334</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M473</field>
+		<field name="floor">4</field>
+		<field name="xcoord">353</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M475</field>
+		<field name="floor">4</field>
+		<field name="xcoord">366</field>
+		<field name="ycoord">206</field>
+	</row>
+
+	<row>
+		<field name="room">M482</field>
+		<field name="floor">4</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">196</field>
+	</row>
+
+	<row>
+		<field name="room">M480</field>
+		<field name="floor">4</field>
+		<field name="xcoord">368</field>
+		<field name="ycoord">192</field>
+	</row>
+
+	<row>
+		<field name="room">M478</field>
+		<field name="floor">4</field>
+		<field name="xcoord">365</field>
+		<field name="ycoord">181</field>
+	</row>
+
+	<row>
+		<field name="room">M476</field>
+		<field name="floor">4</field>
+		<field name="xcoord">365</field>
+		<field name="ycoord">173</field>
+	</row>
+
+	<row>
+		<field name="room">M474</field>
+		<field name="floor">4</field>
+		<field name="xcoord">360</field>
+		<field name="ycoord">168</field>
+	</row>
+
+	</table_data>
+
+</database>
+</mysqldump>
